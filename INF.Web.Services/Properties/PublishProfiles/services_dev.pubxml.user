@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\03_Projects\eposanytime-hospitality-website\deployment\dev\services</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Castle.Core.dll">
+      <publishTime>05/26/2014 09:35:02</publishTime>
+    </File>
+    <File Include="bin/INF.Database.dll">
+      <publishTime>06/21/2014 16:06:45</publishTime>
+    </File>
+    <File Include="bin/INF.Web.Data.dll">
+      <publishTime>09/25/2014 16:37:50</publishTime>
+    </File>
+    <File Include="bin/INF.Web.Services.dll">
+      <publishTime>09/25/2014 16:47:02</publishTime>
+    </File>
+    <File Include="ContentManagement.asmx">
+      <publishTime>05/26/2014 09:35:01</publishTime>
+    </File>
+    <File Include="Orders.asmx">
+      <publishTime>05/26/2014 09:35:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/09/2014 09:14:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

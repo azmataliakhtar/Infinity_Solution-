@@ -1,0 +1,362 @@
+﻿
+/*
+body
+{
+}
+
+.shopping-cart-wrapper
+{
+    
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+
+.shopping-cart-header
+{
+    position: relative;
+    height: 35px;
+    vertical-align: middle; 
+    background-color: #652368;
+    text-align: center;
+}
+
+.shopping-cart-header-title
+{
+    color: White;
+    
+    font-size: 26px;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+    line-height: 32px;
+}
+
+.shopping-cart-non-products, .shopping-cart-products 
+{
+    position: relative;
+    font-size: 13px; 
+    visibility: visible;
+    background-color: white; 
+    color: #363636; 
+    padding: 0px;
+}
+
+.shopping-cart-products-header 
+{
+    color: #363636;
+    font-size: 13px;
+    text-align: center;
+}
+
+.shopping-cart-products .total-price-caption, .shopping-cart-products .total-price-value
+{
+    
+    color: #363636;
+    font-weight: bold;
+    vertical-align: middle;
+    margin: auto;
+    text-align: right;
+}
+
+.shopping-cart-products .total-price-caption
+{
+    padding-right: 10px !important;
+}
+
+.shopping-cart-products table th, .shopping-cart-products table td
+{
+    
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 2px 2px 2px 5px;
+    font-size: 13px;
+}
+
+.shopping-cart-products table th {
+    background-color: #eee;
+}
+
+.shopping-cart-products table
+{
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.shopping-cart-products table td
+{
+}
+
+.postcode-price-caption, .postcode-price-value
+{
+    color: #363636;
+    text-align: right;
+   
+    font-weight: bold;
+}
+
+.postcode-price-caption
+{
+    padding-right: 10px !important;
+}
+
+.box-error-message, .box-info-message {
+    padding: 7px 10px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.box-error-message img, .box-info-message img {
+    margin-right: 5px;
+}
+
+.box-error-message {
+    color: red;
+}
+
+.box-info-message {
+    color: green;
+}
+.shopping_cart_deals{}
+
+*/
+
+
+/* v 3.5 */
+
+.billdingAddrCont {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    float: left;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+
+.billTitle {
+    border-bottom: 1px solid #cc0000;
+    color: #cc0000;
+    float: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.bFNLabel, .bLNLabel, .bALabel, .bCLabel, .bPCLabel, .bCoLabel {
+    float: left;
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+.bFNLabel > label, .bLNLabel > label, .bALabel > label, .bCLabel > label, .bPCLabel > label, .bCoLabel > label {
+    float: left;
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: 0.8px;
+    width: 50%;
+}
+
+.bFNLabel > input, .bLNLabel > input, .bALabel > input, .bCLabel > input, .bPCLabel > input, .bCoLabel > input {
+    border: 1px solid #bbb;
+    border-radius: 4px !important;
+    float: right;
+    padding: 3px !important;
+    width: 50%;
+}
+
+.hidebtn
+{
+    display:none !important;
+}
+
+.allergyContainer {
+    background-color: #fefefe;
+    border: 2px solid #bc0000;
+    border-radius: 4px;
+    color: #222;
+    float: left;
+    padding: 4px;
+    width: 160px;
+}
+
+@media screen and (min-width: 220px) {
+
+
+    #orderselection .contentpopLoading {
+        height: 150px;
+        margin: 150px auto 0 10%;
+        width: 80%;
+    }
+}
+
+#orderselection .contentpopLoading {
+    display:none;
+    background: rgba(0, 0, 0, 0) url("imgs/loadingAnim.gif") no-repeat scroll center center;    
+}
+
+
+
+.orderconfirmSecond {
+    display: block;
+    float: left;
+    margin-top: 15px;
+    width: 100%;
+}
+
+
+
+#yelpwidget {
+    background-color: #fff;
+    border-radius: 6px;
+    float: left;
+    padding: 5px;
+    width: 100%;
+}
+#yelpwidget > div > a {
+    float: left;
+    height: 60px;
+    padding: 0;
+    width: 60px;
+}
+#businessimg {
+    height: 60px !important;
+    width: 60px !important;
+}
+#yelpheader {
+    color: #515151;
+    float: left;
+    width: 165px;
+}
+#yelptitle {
+    float: left;
+    margin-left: 10px;
+}
+#yelpstarrating {
+    float: right;
+    margin-top: 4px;
+    width: 75px;
+}
+#yelpbutton {
+    margin-left: 5px;
+    width: 90px;
+}
+#numreviews {
+    float: right;
+    font-size: 12px;
+    font-weight: normal;
+    margin-right: 4px;
+    margin-top: 8px;
+}
+#yelpheader > a {
+    float: left;
+    margin-top: 5px;
+}
+
+.testBasket {
+    display: none;
+}
+
+
+.menu-categories li a:hover .menuButtons
+{
+    color:#2c3271;
+    cursor: pointer;
+}
+
+
+.leftCol .menu-categories a {
+    float: left;
+    width: 100%;
+}
+
+.menu-categories > li {
+    float: left;
+    width: 100%;
+}
+
+
+
+
+@media screen and (min-width: 220px) {
+    
+    .middleCol {
+        background-color: #fff;
+        border-radius: 6px;
+        float: left;
+        padding: 10px;
+        width: 100%;
+    }
+
+
+}
+
+
+@media screen and (min-width: 768px) {
+      .middleCol {
+        background-color: #fff;
+        border-radius: 6px;
+        float: left;
+        padding: 10px;
+        width: 56% !important;
+    }
+}   
+
+
+.hotIcon
+{
+    
+
+
+     background: transparent url("imgs/labelicns/hot.png") no-repeat scroll 0 0 / 100% auto;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: -4px;
+    width: 40px;
+
+}
+
+.spicyIcon
+{
+
+     background: transparent url("imgs/labelicns/spicy.png") no-repeat scroll 0 0 / 100% auto;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: -4px;
+    width: 40px;
+}
+
+.mildIcon
+{
+   
+     background: transparent url("imgs/labelicns/mild.png") no-repeat scroll 0 0 / 100% auto;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: -4px;
+    width: 40px;
+
+}
+
+.vegIcon
+{
+  
+    background: transparent url("imgs/labelicns/veg.png") no-repeat scroll 0 0 / 100% auto;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: -4px;
+    width: 40px;
+
+}
+
+.prodName
+{
+    position: relative;
+}

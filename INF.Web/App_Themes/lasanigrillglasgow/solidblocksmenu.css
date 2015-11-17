@@ -1,0 +1,71 @@
+.solidblockmenu {
+    width: 100%;
+    height: 41px;
+    margin: 0 auto;
+    text-align: center;
+    color: #373435;
+}
+
+.solidblockmenu ul a: {
+    color: #373435;
+    text-decoration: none;
+}
+
+.solidblockmenu ul a:hover {
+    color: #373435;
+    text-decoration: none;
+}
+
+.solidblockmenu li {
+    display: inline;
+    font-family: tahoma;
+    font-size: 1em;
+    text-decoration: none;
+    color: #373435;
+    cursor: pointer;
+    background-color: #ed3237;
+    padding: 5px 30px 5px 30px;
+    margin-right: 8px;
+    margin-left: 8px;
+    border-radius: 10px;
+}
+
+.solidblockmenu li:hover {
+    background-color: white;
+    background-image: none;
+    color: #373435;
+}
+.solidblockmenu li a:link {
+    color: #373435;
+    text-decoration: none;
+}
+.solidblockmenu li a:visited{
+    color: #373435;
+    text-decoration: none;
+}
+.solidblockmenu li a:hover {
+    color: #373435;
+    text-decoration: none;
+}
+.solidblockmenu li a:active {
+    color: #373435;
+    text-decoration: none;
+}
+
+.tabcontainer{
+    clear: left;
+    width:95%; /*width of 2nd level sub menus*/
+    height:1.5em; /*height of 2nd level sub menus. Set to largest's sub menu's  height to avoid jittering.*/
+}
+
+*:first-child+html .ieclass{ /*IE7 hack to remove gap between menu and sub contents*/
+    margin-top: -1em;
+}
+
+* html .ieclass{ /*IE6 and below hack to remove gap between menu and sub contents*/
+    margin-top: -1em;
+}
+
+.tabcontent{
+display:none;
+}

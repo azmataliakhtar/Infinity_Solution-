@@ -1,0 +1,32 @@
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\bin\Release\INF.Web.Data.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\bin\Release\INF.Web.Data.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\bin\Release\INF.Database.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\bin\Release\Castle.Core.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\bin\Release\INF.Database.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\obj\Release\INF.Web.Data.csprojResolveAssemblyReference.cache
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\obj\Release\INF.Web.Data.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\obj\Release\INF.Web.Data.pdb
+G:\v3.6 source code\INF.Web.Data\bin\Release\INF.Web.Data.dll
+G:\v3.6 source code\INF.Web.Data\bin\Release\INF.Web.Data.pdb
+G:\v3.6 source code\INF.Web.Data\bin\Release\INF.Database.dll
+G:\v3.6 source code\INF.Web.Data\bin\Release\Castle.Core.dll
+G:\v3.6 source code\INF.Web.Data\bin\Release\INF.Database.pdb
+G:\v3.6 source code\INF.Web.Data\obj\Release\INF.Web.Data.csprojResolveAssemblyReference.cache
+G:\v3.6 source code\INF.Web.Data\obj\Release\INF.Web.Data.dll
+G:\v3.6 source code\INF.Web.Data\obj\Release\INF.Web.Data.pdb
+F:\v3.7 source\INF.Web.Data\bin\Release\INF.Web.Data.dll
+F:\v3.7 source\INF.Web.Data\bin\Release\INF.Web.Data.pdb
+F:\v3.7 source\INF.Web.Data\bin\Release\INF.Database.dll
+F:\v3.7 source\INF.Web.Data\bin\Release\Castle.Core.dll
+F:\v3.7 source\INF.Web.Data\bin\Release\INF.Database.pdb
+F:\v3.7 source\INF.Web.Data\obj\Release\INF.Web.Data.csprojResolveAssemblyReference.cache
+F:\v3.7 source\INF.Web.Data\obj\Release\INF.Web.Data.dll
+F:\v3.7 source\INF.Web.Data\obj\Release\INF.Web.Data.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\bin\Release\INF.Web.Data.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\bin\Release\INF.Web.Data.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\bin\Release\INF.Database.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\bin\Release\Castle.Core.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\bin\Release\INF.Database.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\obj\Release\INF.Web.Data.csprojResolveAssemblyReference.cache
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\obj\Release\INF.Web.Data.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\obj\Release\INF.Web.Data.pdb

@@ -1,0 +1,1 @@
+﻿This folder will contains pictures of menu-categories

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0BDBC362-6639-4CC9-B8C4-8A127D724321}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>INF.Web.Data</RootNamespace>
+    <AssemblyName>INF.Web.Data</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\BIN\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\BaseBusinessLogic.cs" />
+    <Compile Include="BLL\BasketTempBusinessLogic.cs" />
+    <Compile Include="BLL\BzMenuTopping.cs" />
+    <Compile Include="BLL\CustomerBusinessLogic.cs" />
+    <Compile Include="BLL\EmailSenderBusinessLogic.cs" />
+    <Compile Include="BLL\EmailSettingBusinessLogic.cs" />
+    <Compile Include="BLL\MenuBusinessLogic.cs" />
+    <Compile Include="BLL\PostcodeBusinessLogic.cs" />
+    <Compile Include="BLL\ReportingBusinessLogic.cs" />
+    <Compile Include="BLL\RestaurantBusinessLogic.cs" />
+    <Compile Include="BLL\ShoppingBusinessLogic.cs" />
+    <Compile Include="BLL\StaticPageBusinessLogic.cs" />
+    <Compile Include="BLL\ThemesSettingsBusinessLogic.cs" />
+    <Compile Include="BLL\UserBusinessLogic.cs" />
+    <Compile Include="CryptoUtility.cs" />
+    <Compile Include="DAL\DataAccess.cs" />
+    <Compile Include="DAL\IRestaurantInfo.cs" />
+    <Compile Include="DAL\SqlClient\BasketTempProvider.cs" />
+    <Compile Include="DAL\SqlClient\CustomerProvider.cs" />
+    <Compile Include="DAL\SqlClient\DeliveryTimingProvider.cs" />
+    <Compile Include="DAL\SqlClient\EmailSenderProvider.cs" />
+    <Compile Include="DAL\SqlClient\EmailSettingProvider.cs" />
+    <Compile Include="DAL\SqlClient\FlatFieldsProvider.cs" />
+    <Compile Include="DAL\SqlClient\MenuCategoryProvider.cs" />
+    <Compile Include="DAL\SqlClient\MenuDressingProvider.cs" />
+    <Compile Include="DAL\SqlClient\MenuItemProvider.cs" />
+    <Compile Include="DAL\SqlClient\MenuOptionsProvider.cs" />
+    <Compile Include="DAL\SqlClient\MenuToppingProvider.cs" />
+    <Compile Include="DAL\SqlClient\OrderProvider.cs" />
+    <Compile Include="DAL\SqlClient\PostcodeProvider.cs" />
+    <Compile Include="DAL\SqlClient\RestaurantInfoProvider.cs" />
+    <Compile Include="DAL\SqlClient\RestaurantTimingProvider.cs" />
+    <Compile Include="DAL\SqlClient\ServicesChargeProvider.cs" />
+    <Compile Include="DAL\SqlClient\StaticPageProvider.cs" />
+    <Compile Include="DAL\SqlClient\UserProvider.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="Entities\CsBasketItemTemp.cs" />
+    <Compile Include="Entities\CsBasketTemp.cs" />
+    <Compile Include="Entities\CsCustomer.cs" />
+    <Compile Include="Entities\CsCustomerAddress.cs" />
+    <Compile Include="Entities\CsBaseSelection.cs" />
+    <Compile Include="Entities\CsDealDetail.cs" />
+    <Compile Include="Entities\CsDeliveryTiming.cs" />
+    <Compile Include="Entities\CsEmailSender.cs" />
+    <Compile Include="Entities\CsEmailSetting.cs" />
+    <Compile Include="Entities\CsFlatFieldsName.cs" />
+    <Compile Include="Entities\CsFlatFieldsValue.cs" />
+    <Compile Include="Entities\CsMenuCategory.cs" />
+    <Compile Include="Entities\CsMenuDressing.cs" />
+    <Compile Include="Entities\CsMenuItem.cs" />
+    <Compile Include="Entities\CsMenuOption.cs" />
+    <Compile Include="Entities\CsMenuTopping.cs" />
+    <Compile Include="Entities\CsOptionDetail.cs" />
+    <Compile Include="Entities\CsOrderDetail.cs" />
+    <Compile Include="Entities\CsOrder.cs" />
+    <Compile Include="Entities\CsRestaurant.cs" />
+    <Compile Include="Entities\CsRestaurantTiming.cs" />
+    <Compile Include="Entities\CsServicesCharge.cs" />
+    <Compile Include="Entities\CsStaticPage.cs" />
+    <Compile Include="Entities\CsSubMenuItem.cs" />
+    <Compile Include="Entities\CsToppingCategory.cs" />
+    <Compile Include="Entities\CsUser.cs" />
+    <Compile Include="EntityBase.cs" />
+    <Compile Include="Entities\CsPostCodePrice.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WebSettings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\INF.Database\INF.Database.csproj">
+      <Project>{4EDFF1A0-66F9-4049-9E30-187E39FBF411}</Project>
+      <Name>INF.Database</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+    <body>
+        <h3>Hi,</h3>
+        <strong>Thank You For Your Order !</strong>
+        <br/>
+        <strong>Order Details:</strong>
+        <strong>Customer:&nbsp;</strong>@customer_name@<br/>
+        <strong>Email:&nbsp;</strong>@customer_email@<br/>
+        <strong>Telephone/Mobile:&nbsp;</strong>@customer_phone@<br/>
+        <strong>Customer Address:&nbsp;</strong>@customer_address@<br/>
+        <strong>Delivery to Address:&nbsp;</strong>@delivert_to_address@<br/>
+        <br/>
+        <table style="width: 800px" border="0" cellpadding="1" cellspacing="1">
+            <tr style="background-color: gainsboro;">
+                <th style="width: 80px;text-align: right;padding-right: 7px;">Quantity</th>
+                <th>Item</th>
+                <th style="width: 110px;text-align: right;padding-right: 7px;">Unit Price (£)</th>
+                <th style="width: 110px;text-align: right;padding-right: 7px;">Price (£)</th>
+            </tr>
+            @items@            
+        </table>
+        <br/>
+        <b>Total:&nbsp;</b>@subtotal@&nbsp;(pound)<br/>
+        <b>Order type:&nbsp;</b>@order_type@<br/>
+        <b>Payment status:&nbsp;</b>@payment_status@<br/>
+        <b>Placed at:&nbsp;</b>@placed_at@<br/>
+        <br/>
+        Best Regards,
+        @website_team@ Staff
+    </body>
+</html>

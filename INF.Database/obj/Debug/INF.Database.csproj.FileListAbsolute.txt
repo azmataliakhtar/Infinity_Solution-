@@ -1,0 +1,19 @@
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\BIN\Debug\INF.Database.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\BIN\Debug\INF.Database.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\obj\Debug\INF.Database.csprojResolveAssemblyReference.cache
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\obj\Debug\INF.Database.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\obj\Debug\INF.Database.pdb
+G:\v3.6 source code\BIN\Debug\INF.Database.dll
+G:\v3.6 source code\BIN\Debug\INF.Database.pdb
+G:\v3.6 source code\INF.Database\obj\Debug\INF.Database.dll
+G:\v3.6 source code\INF.Database\obj\Debug\INF.Database.pdb
+G:\v3.6 source code\INF.Database\obj\Debug\INF.Database.csprojResolveAssemblyReference.cache
+F:\v3.7 source\BIN\Debug\INF.Database.dll
+F:\v3.7 source\BIN\Debug\INF.Database.pdb
+F:\v3.7 source\INF.Database\obj\Debug\INF.Database.csprojResolveAssemblyReference.cache
+F:\v3.7 source\INF.Database\obj\Debug\INF.Database.dll
+F:\v3.7 source\INF.Database\obj\Debug\INF.Database.pdb
+C:\Important\v3.8 source\v3.8 source\BIN\Debug\INF.Database.dll
+C:\Important\v3.8 source\v3.8 source\BIN\Debug\INF.Database.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Database\obj\Debug\INF.Database.dll
+C:\Important\v3.8 source\v3.8 source\INF.Database\obj\Debug\INF.Database.pdb

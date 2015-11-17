@@ -1,0 +1,120 @@
+﻿body
+{
+}
+
+.shopping-cart-wrapper
+{
+    font-family: Arial;
+    width: 310px;
+    height: auto;
+    background-color: #ccc;
+    border-radius: 8px;
+    border-bottom: 4px solid #E2E2E2;
+    padding-bottom: 20px;
+}
+
+.shopping-cart-header
+{
+    position: relative; 
+    background-image: url('images/yourOrders.png');
+    height: 111px;
+    width: 317px;
+    background-repeat: no-repeat;
+}
+
+.shopping-cart-header-title /*The style of basket Header*/
+{
+    display: none;
+}
+
+.shopping-cart-non-products, .shopping-cart-products /* the style of basket content*/
+{
+    position: relative;
+    font-size: 13px;  
+    width: 96%;
+    visibility: visible;
+    background-color: white; /* #FFFF99;*/
+    color: #6B6B6B; 
+    margin: 2%;
+    text-transform: capitalize;
+    border-radius: 7px;
+    border: 1pt dashed #ccc;
+}
+
+.shopping-cart-products-header /* Basket Column Header Product Name, Qty, Price */
+{
+    color: #363636;
+    font-size: 13px;
+    text-align: center;
+}
+
+.shopping-cart-products .total-price-caption, .shopping-cart-products .total-price-value
+{
+    font-family: Arial;
+    color: #363636;
+    font-weight: bold;
+    vertical-align: middle;
+    margin: auto;
+    text-align: right;
+}
+
+.shopping-cart-products .total-price-caption
+{
+    padding-right: 10px !important;
+}
+
+.shopping-cart-products table th, .shopping-cart-products table td
+{
+    font-family: Arial;
+    border-left: 1px solid #E4E4E4;
+    border-top: 1px solid #E4E4E4;
+    padding: 2px 2px 2px 5px;
+    font-size: 13px;
+}
+
+.shopping-cart-products table th {
+    background-color: #eee;
+    text-transform: uppercase;
+}
+
+.shopping-cart-products table
+{
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.shopping-cart-products table td
+{
+}
+
+.postcode-price-caption, .postcode-price-value
+{
+    color: #363636;
+    text-align: right;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.postcode-price-caption
+{
+    padding-right: 10px !important;
+}
+
+.box-error-message, .box-info-message {
+    padding: 7px 10px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.box-error-message img, .box-info-message img {
+    margin-right: 5px;
+}
+
+.box-error-message {
+    color: red;
+}
+
+.box-info-message {
+    color: green;
+}

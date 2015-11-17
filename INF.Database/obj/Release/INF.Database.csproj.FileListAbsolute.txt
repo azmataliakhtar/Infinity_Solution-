@@ -1,0 +1,10 @@
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\bin\Release\INF.Database.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\bin\Release\INF.Database.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\bin\Release\Castle.Core.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\obj\Release\INF.Database.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Database\obj\Release\INF.Database.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Database\bin\Release\INF.Database.dll
+C:\Important\v3.8 source\v3.8 source\INF.Database\bin\Release\INF.Database.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Database\bin\Release\Castle.Core.dll
+C:\Important\v3.8 source\v3.8 source\INF.Database\obj\Release\INF.Database.dll
+C:\Important\v3.8 source\v3.8 source\INF.Database\obj\Release\INF.Database.pdb

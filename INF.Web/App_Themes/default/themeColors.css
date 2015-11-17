@@ -1,0 +1,716 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bsktActive {
+    background-color:#CC0001;
+}
+
+/** bc2020 red color **/
+
+.mbhi{
+    background-color: #bc2020;
+}
+
+.menu-categories li .menuButtons:hover
+{
+    color:#bc2020;
+}
+
+.prodPromo{
+    color: #bc2020;
+}
+
+.mnvmb{
+    border-bottom: 1px solid #bc2020
+}
+
+#menunavbarMobi {
+    border-bottom:1px solid #bc2020;
+}
+
+#menuMobiNav ul.nav li > a:hover {
+    color: #bc2020;
+    cursor: pointer;
+}
+
+
+#menunavbarMobi .navbar-brand {
+   color:#bc2020;
+}
+
+#mobinav_collapse li:hover {
+    color: #bc2020;
+    cursor: pointer;
+}
+
+#mobinav_collapse li a:focus {
+     color: #bc2020;
+}
+
+.customPopup .TitlebarLeft {
+    color: #bc2020;
+}
+
+.customPopup .popup-title {
+    color: #bc2020;
+}
+
+.customPopup .popup-body .checkbox > label:hover {
+    color: #bc2020;
+}
+
+.okBtn {
+    background-color: #bc2020;
+    border: 1px solid #bc2020;
+   
+}
+
+.toppingDecision > h3, .toppingPosition > h3 {
+    color: #bc2020;
+}
+
+.aImgBtn {
+    background-color: #bc2020;   
+}
+
+.cstmsection h3{
+   color: #bc2020;
+}
+
+.ordType {
+    color: #bc2020;
+}
+
+.ordTitl {
+    color: #bc2020;
+}
+
+.track-order-detail tr.footerTrackTr.totaltrprice td {
+    color: #bc2020;
+}
+
+.loginArticleContainer .page-header, .registerArticleContainer .page-header {
+    border-bottom: 1px solid #bc2020;
+    color: #bc2020;
+}
+
+.loginArticleContainer .form-control, .registerArticleContainer .form-control {
+    color: #bc2020;
+}
+
+
+.submitRecov input {
+    background-color: #bc2020;
+     border: 1px solid #bc2020; 
+ }
+
+ .actualLgnBtn {
+    background-color: #bc2020;
+}
+
+.registerBtnActual {
+    background-color: #bc2020;
+}
+
+ #mobinav_collapse .navbar-nav > li > a:hover{
+    color: #bc0000;
+}
+
+
+.onlineTxt:hover{
+    color:#bc2020;
+    cursor: pointer;
+}
+
+.contactInfoCt > p {
+    color: #bc2020;
+}
+
+
+.psubhead {
+    color: #bc2020;
+}
+
+
+.errorLine{  
+    color:#bc2020;
+}
+
+
+.fbld > input {
+    color:#bc2020; 
+}
+
+#selectPeople {   
+    color: #bc2020; 
+}
+
+.thirdBLine > input {
+    background-color: #bc2020;
+    border: 1px solid #bc2020;
+}
+
+#ctl00_MainContent_lblCardCharges {
+    color: #bc2020;
+}
+
+.addrProfile > label {
+    color: #bc2020;
+}
+
+#ctl00_MainContent_btnUpdateInformation, #ctl00_MainContent_btnSaveChangePassword {
+    background-color: #bc2020;
+    border: 1px solid #bc2020;
+}
+
+
+.coloredPhone{
+    color: #bc2020;
+}
+
+.dealselection > div:last-child {
+    border-bottom: 1px solid #bc2020;  
+}
+
+#menu_extra_header {
+    border-top: 1px solid #bc2020;
+}
+
+#div_toppings > table td label:hover {
+    cursor: pointer;
+    color: #bc2020;
+}
+
+.shopping_cart .isDeal .sbprdName {
+    color: #bc2020 !important;
+}
+
+.isDeal .dealThreeCols {
+    color: #bc2020;
+}
+
+.contentpop h3 {
+    color: #bc2020;
+}
+
+#orderselection .contentpop {
+    border: 1px solid #bc2020;
+}
+
+
+#opt_collection_order {
+    background: none repeat scroll 0 0 #bc2020 !important;
+}
+
+.poporderDelivery > a {
+    background-color: #bc2020;
+}
+
+
+
+#pnlModalPopupHeader h3 {
+    color: #bc2020;
+}
+
+.firstOpt > label:hover{
+    color:#bc2020;
+}
+
+.secondOpt > label:hover{
+    color:#bc2020;
+}
+
+.whatTimeFieldset h3{
+    color: #bc2020;
+}
+
+#fs_payment_method h3{
+    color: #bc2020;
+}
+
+.paymCont > span:first-child label:hover{
+    color:#bc2020;
+}
+
+
+.confirmBtnCont input{
+    background-color: #bc2020;
+}
+
+
+
+
+.nameTestim {
+    color: #bc2020;
+}
+
+.cateringText h2 {
+    color: #bc2020;
+}
+
+.finestspicesText h2 {
+    color: #bc2020;
+}
+
+.profile article h4 {
+    color: #bc2020;
+}
+
+
+.navList > li.logout:hover {
+    color:#bc2020;
+ }
+
+
+.navList > li.logout:hover a{
+    color:#bc2020 !important;
+}
+
+.thirdSubRow > a:hover{
+    color: #bc2020;
+}
+
+.welcomeSettings:hover{
+    color:#bc2020;
+}
+
+.shopping-cart-header
+{
+    color: #bc2020;
+}
+
+.delPrd a:hover i {
+    color:#bc2020;
+}
+
+.ovbActions a:hover i{
+    color:#bc2020;
+}
+
+.trfinPrice .total-price-caption, .trfinPrice .total-price-value{
+    color:#bc2020;
+}
+
+
+#countdown {
+    color: #bc2020;
+}
+
+.ordrevHeader{
+    border-bottom: 1px solid #bc2020;
+    color: #bc2020;
+}
+
+
+.ovbTotalPrice{
+    color:#bc2020 !important;
+}
+
+.ovbTotalPriceVal{   
+    color:#bc2020 !important;
+}
+
+
+.orderSumm .shopping-cart-header {
+    color: #bc2020;
+}
+
+.orderDetHeader{    
+    color: #bc2020;
+}
+
+
+.customInfo {
+    color: #bc2020;
+}
+
+#fs_customer_address > h3 {
+    color: #bc2020;
+}
+
+.orderSumm .shopping-cart-header {
+    color: #bc2020;
+}
+
+
+.customPopup .popup-title {
+    border-bottom: 1px solid #bc2020; 
+    color: #bc2020;
+}
+
+.menuTitle {
+    border-bottom: 1px solid #bc2020;
+    color: #bc2020;
+}
+
+.secondSubRow > a {
+    color: #bc0000;
+}
+
+
+/* ac0000 hover red color */
+
+.thirdBLine > input:hover{
+    background-color:#ac0000;
+}
+
+.poporderDelivery > a:hover{
+    background-color:#ac0000;
+}
+
+#opt_collection_order:hover{
+    background-color:#ac0000 !important;
+}
+
+
+#ctl00_MainContent_btnUpdateInformation:hover, #ctl00_MainContent_btnSaveChangePassword:hover {
+    background-color: #ac0000;
+}
+
+.confirmBtnCont input:hover{
+    background-color:#ac0000;
+}
+
+.actualLgnBtn:hover{
+    background-color:#ac0000;
+}
+
+.pwdForgot a:hover{
+    color:#ac0000;
+}
+
+.registerBtnActual:hover{
+    background-color:#ac0000;
+}
+
+.actualLgnBtn {
+    border: 1px solid #ac0000;
+}
+
+
+.registerBtnActual {
+    border: 1px solid #ac0000;
+}
+
+.aImgBtn:hover{
+    background-color: #ac0000;
+}
+
+.submitRecov input:hover {
+    background-color: #ac0000;
+    border: 1px solid #ac0000; 
+}
+
+.okBtn:hover{
+    
+    background-color: #ac0000;
+    border: 1px solid #ac0000;
+}
+
+
+
+/** #FFF white color */
+
+.thirdBLine > input {  
+    color: #fff;
+}
+
+#ctl00_MainContent_btnUpdateInformation, #ctl00_MainContent_btnSaveChangePassword {
+    color: #fff;
+}
+
+#ctl00_MainContent_btnUpdateInformation:hover, #ctl00_MainContent_btnSaveChangePassword:hover {
+    color:#FFF:;
+}
+
+ #mobinav_collapse .navbar-nav > li > a {
+    color: #bc0000;
+    text-shadow: none !important;
+}
+
+.fchbSecond > a {
+    color: #bc2020;
+}
+
+.confirmBtnCont input{   
+    color: #fff !important;
+}
+
+.scndhm{ 
+    color: #FFF;
+}
+
+
+.thirdSubRow > a {
+    color: #fff;
+}
+
+
+
+.bsktColor{
+    background-color: #FFF;
+}
+
+.navbarbtn
+{
+    background-color: #bc0000;
+}
+
+.okBtn {   
+    color: #fff;
+}
+
+.cancelBtn {
+    background-color: #999;
+    border: 1px solid #999;
+    color: #fff;
+}
+
+.cancelBtn:hover{   
+    background-color: #797979;
+    border: 1px solid #797979;
+}
+
+
+.aImgBtn {    
+    color: #fff;
+}
+
+.aImgBtn:hover{ 
+    text-decoration: none;
+    color: #FFF;
+}
+
+
+/** #fefefe brown malikas **/
+.mobiNavLinks .icon-bar {
+    background-color: #fefefe;
+    color: #fefefe;
+}
+
+.navList > li.selected {
+    background-color: #fefefe;
+}
+
+#mobinav_collapse {
+    box-shadow: 0 2px 3px #fefefe;
+}
+
+ #mobinav_collapse.navbar-collapse{
+    border-color: #fefefe;
+ }
+
+ #mobinav_collapse .navbar-nav > li > a:hover{
+
+    background-color: #dedede;
+ }
+
+#mobinav_collapse li a:focus {
+     background-color: #fefefe;
+}
+
+#mobiNavBar .navbar-header > button .icon-bar {
+    background-color: #fefefe;
+}
+
+#mobiNavBar .navbar-brand:hover{
+    background-color: #fefefe;
+}
+
+#mobinav_collapse
+{
+    background-color: #fefefe;
+}
+
+.navliColor:hover{
+    background-color:#fefefe;
+}
+
+.navbarbtn
+{   
+    border: 1px solid #bc0000 !important;  
+}
+
+.navbarbtn:hover, .navbarbtn:focus{
+    background-color: #ddd !important;
+    border: 1px solid #fefefe !important;
+}
+
+
+.wbsColor
+{
+    background-color:#fefefe;   
+}
+
+.bsktColor{
+    color:#fefefe;
+}
+
+
+
+
+/** #EEE white-ish color **/
+
+.orderDetHeader{
+    border-bottom: 1px solid #eee;
+}
+
+.orderSumm .shopping-cart-header {
+    border-bottom: 1px solid #eee;
+}
+
+.basketMobi:hover{
+    background-color: #eee;
+}
+
+
+.navList > li.logout a{
+    color:#eee !important;
+}
+
+.navliColor a{
+    color: #fff;
+}
+
+.navList > li:hover a {
+    color:#bc0000;
+}
+
+
+.actualLgnBtn {
+    color: #eee;
+}
+
+.registerBtnActual {
+    color: #eee;
+}
+
+ .onlineTxt {
+    color: #eee;
+}
+
+
+
+/** VARIOUS COLOR **/
+
+.firstHeaderRow .firstCellH .phoneNr {
+    color: #fff;
+    cursor: pointer;
+}
+
+.firstHeaderRow .firstCellH .phoneNr:hover
+{
+    color:#bc0000;
+} 
+
+.menu-categories li .menuButtons{
+    color:#000;
+}
+
+
+#mobinav_collapse li {
+    color: #000;
+}
+
+
+.loginArticleContainer .form-control::-moz-placeholder, .registerArticleContainer .form-control::-moz-placeholder {
+    color: #555;
+}
+
+.addressIcon, .phoneIcon, .onlineIcon
+{
+    background-color: transparent;
+   /* color: #bc0000;*/
+    color: #fff;
+}
+
+.onlineIcon
+{
+    color:#bc0000;
+}
+
+.navList > li.logout:hover {
+    background-color:transparent !important;
+    cursor:pointer;
+   
+}
+
+
+.fchbSecond > a:hover{
+    color:#dc2020;
+}
+
+#ctl00_ucHeader_pnlOrderTypeAndPostCode {
+    background-color: #fefefe;
+    border-bottom: 1px solid #20205f;
+    color: #bc0000;
+
+}
+
+#mobinav_collapse li {
+    border-bottom: 1px solid #20205f;
+    color: #000;
+    background-color: #fefefe;
+}
+
+
+/* v 3.5 */
+
+.billdingAddrCont {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    float: left;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+
+.billTitle {
+    border-bottom: 1px solid #cc0000;
+    color: #cc0000;
+    float: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.bFNLabel, .bLNLabel, .bALabel, .bCLabel, .bPCLabel, .bCoLabel {
+    float: left;
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+.bFNLabel > label, .bLNLabel > label, .bALabel > label, .bCLabel > label, .bPCLabel > label, .bCoLabel > label {
+    float: left;
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: 0.8px;
+    width: 50%;
+}
+
+.bFNLabel > input, .bLNLabel > input, .bALabel > input, .bCLabel > input, .bPCLabel > input, .bCoLabel > input {
+    border: 1px solid #bbb;
+    border-radius: 4px !important;
+    float: right;
+    padding: 3px !important;
+    width: 50%;
+}
+
+.hidebtn
+{
+    display:none !important;
+}

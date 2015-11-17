@@ -1,0 +1,19 @@
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\BIN\Debug\INF.Web.Data.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\BIN\Debug\INF.Web.Data.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\obj\Debug\INF.Web.Data.csprojResolveAssemblyReference.cache
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\obj\Debug\INF.Web.Data.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.Data\obj\Debug\INF.Web.Data.pdb
+G:\v3.6 source code\BIN\Debug\INF.Web.Data.dll
+G:\v3.6 source code\BIN\Debug\INF.Web.Data.pdb
+G:\v3.6 source code\INF.Web.Data\obj\Debug\INF.Web.Data.csprojResolveAssemblyReference.cache
+G:\v3.6 source code\INF.Web.Data\obj\Debug\INF.Web.Data.dll
+G:\v3.6 source code\INF.Web.Data\obj\Debug\INF.Web.Data.pdb
+F:\v3.7 source\BIN\Debug\INF.Web.Data.dll
+F:\v3.7 source\BIN\Debug\INF.Web.Data.pdb
+F:\v3.7 source\INF.Web.Data\obj\Debug\INF.Web.Data.dll
+F:\v3.7 source\INF.Web.Data\obj\Debug\INF.Web.Data.pdb
+C:\Important\v3.8 source\v3.8 source\BIN\Debug\INF.Web.Data.dll
+C:\Important\v3.8 source\v3.8 source\BIN\Debug\INF.Web.Data.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\obj\Debug\INF.Web.Data.csprojResolveAssemblyReference.cache
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\obj\Debug\INF.Web.Data.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.Data\obj\Debug\INF.Web.Data.pdb

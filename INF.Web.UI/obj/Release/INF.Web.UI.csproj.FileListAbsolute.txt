@@ -1,0 +1,52 @@
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\INF.Web.UI.dll.config
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\INF.Web.UI.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\INF.Web.UI.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\INF.Database.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\INF.Web.Data.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\log4net.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\SagePay.IntegrationKit.DotNet.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\Castle.Core.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\INF.Database.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\bin\INF.Web.Data.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\obj\Release\INF.Web.UI.csprojResolveAssemblyReference.cache
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\obj\Release\INF.Web.UI.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web.UI\obj\Release\INF.Web.UI.pdb
+G:\v3.6 source code\INF.Web.UI\bin\INF.Web.UI.dll.config
+G:\v3.6 source code\INF.Web.UI\bin\INF.Web.UI.dll
+G:\v3.6 source code\INF.Web.UI\bin\INF.Web.UI.pdb
+G:\v3.6 source code\INF.Web.UI\bin\INF.Database.dll
+G:\v3.6 source code\INF.Web.UI\bin\INF.Web.Data.dll
+G:\v3.6 source code\INF.Web.UI\bin\log4net.dll
+G:\v3.6 source code\INF.Web.UI\bin\SagePay.IntegrationKit.DotNet.dll
+G:\v3.6 source code\INF.Web.UI\bin\Castle.Core.dll
+G:\v3.6 source code\INF.Web.UI\bin\INF.Database.pdb
+G:\v3.6 source code\INF.Web.UI\bin\INF.Web.Data.pdb
+G:\v3.6 source code\INF.Web.UI\obj\Release\INF.Web.UI.csprojResolveAssemblyReference.cache
+G:\v3.6 source code\INF.Web.UI\obj\Release\INF.Web.UI.dll
+G:\v3.6 source code\INF.Web.UI\obj\Release\INF.Web.UI.pdb
+F:\v3.7 source\INF.Web.UI\bin\INF.Web.UI.dll.config
+F:\v3.7 source\INF.Web.UI\bin\INF.Web.UI.dll
+F:\v3.7 source\INF.Web.UI\bin\INF.Web.UI.pdb
+F:\v3.7 source\INF.Web.UI\bin\INF.Database.dll
+F:\v3.7 source\INF.Web.UI\bin\INF.Web.Data.dll
+F:\v3.7 source\INF.Web.UI\bin\log4net.dll
+F:\v3.7 source\INF.Web.UI\bin\SagePay.IntegrationKit.DotNet.dll
+F:\v3.7 source\INF.Web.UI\bin\Castle.Core.dll
+F:\v3.7 source\INF.Web.UI\bin\INF.Database.pdb
+F:\v3.7 source\INF.Web.UI\bin\INF.Web.Data.pdb
+F:\v3.7 source\INF.Web.UI\obj\Release\INF.Web.UI.csprojResolveAssemblyReference.cache
+F:\v3.7 source\INF.Web.UI\obj\Release\INF.Web.UI.dll
+F:\v3.7 source\INF.Web.UI\obj\Release\INF.Web.UI.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\INF.Web.UI.dll.config
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\INF.Web.UI.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\INF.Web.UI.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\INF.Database.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\INF.Web.Data.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\log4net.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\SagePay.IntegrationKit.DotNet.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\Castle.Core.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\INF.Database.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\bin\INF.Web.Data.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\obj\Release\INF.Web.UI.csprojResolveAssemblyReference.cache
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\obj\Release\INF.Web.UI.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web.UI\obj\Release\INF.Web.UI.pdb

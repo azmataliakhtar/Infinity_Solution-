@@ -1,0 +1,1 @@
+﻿<%@ Page Language="VB" AutoEventWireup="false" Inherits="INF.Web.Ajax.SaveInstructions" Codebehind="SaveInstructions.aspx.vb" %>

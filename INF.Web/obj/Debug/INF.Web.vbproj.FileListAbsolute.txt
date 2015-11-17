@@ -1,0 +1,124 @@
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\Admin\rdlc\OrdersMonthly.rdlc
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\Admin\rdlc\SalesReport.rdlc
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.dll.config
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.xml
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\AjaxControlToolkit.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\CKEditor.NET.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\CustomPrint.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Database.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.Data.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.UI.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\itextsharp.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\log4net.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\Microsoft.ReportViewer.Common.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\Microsoft.ReportViewer.WebForms.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\SagePay.IntegrationKit.DotNet.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\Castle.Core.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Database.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.Data.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\bin\INF.Web.UI.pdb
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\INF.Web.vbprojResolveAssemblyReference.cache
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\INF.Web.AdminConstanst.resources
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\INF.Web.Resources.resources
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\INF.Web.vbproj.GenerateResource.Cache
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\RdlCompile.cache
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\RdlCompile.compiled
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\INF.Web.dll
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\INF.Web.xml
+I:\v3.5 from bien\infinitysol-infinitysol-3af5eada54c7\infinitysol-infinitysol-3af5eada54c7\INF.Web\obj\Debug\INF.Web.pdb
+G:\v3.6 source code\INF.Web\bin\Admin\rdlc\OrdersMonthly.rdlc
+G:\v3.6 source code\INF.Web\bin\Admin\rdlc\SalesReport.rdlc
+G:\v3.6 source code\INF.Web\bin\INF.Web.dll.config
+G:\v3.6 source code\INF.Web\bin\INF.Web.dll
+G:\v3.6 source code\INF.Web\bin\INF.Web.pdb
+G:\v3.6 source code\INF.Web\bin\INF.Web.xml
+G:\v3.6 source code\INF.Web\bin\AjaxControlToolkit.dll
+G:\v3.6 source code\INF.Web\bin\CKEditor.NET.dll
+G:\v3.6 source code\INF.Web\bin\CustomPrint.dll
+G:\v3.6 source code\INF.Web\bin\INF.Database.dll
+G:\v3.6 source code\INF.Web\bin\INF.Web.Data.dll
+G:\v3.6 source code\INF.Web\bin\INF.Web.UI.dll
+G:\v3.6 source code\INF.Web\bin\itextsharp.dll
+G:\v3.6 source code\INF.Web\bin\log4net.dll
+G:\v3.6 source code\INF.Web\bin\Microsoft.ReportViewer.Common.dll
+G:\v3.6 source code\INF.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\v3.6 source code\INF.Web\bin\Microsoft.ReportViewer.WebForms.dll
+G:\v3.6 source code\INF.Web\bin\SagePay.IntegrationKit.DotNet.dll
+G:\v3.6 source code\INF.Web\bin\Castle.Core.dll
+G:\v3.6 source code\INF.Web\bin\INF.Database.pdb
+G:\v3.6 source code\INF.Web\bin\INF.Web.Data.pdb
+G:\v3.6 source code\INF.Web\bin\INF.Web.UI.pdb
+G:\v3.6 source code\INF.Web\obj\Debug\INF.Web.vbprojResolveAssemblyReference.cache
+G:\v3.6 source code\INF.Web\obj\Debug\INF.Web.AdminConstanst.resources
+G:\v3.6 source code\INF.Web\obj\Debug\INF.Web.Resources.resources
+G:\v3.6 source code\INF.Web\obj\Debug\INF.Web.vbproj.GenerateResource.Cache
+G:\v3.6 source code\INF.Web\obj\Debug\RdlCompile.cache
+G:\v3.6 source code\INF.Web\obj\Debug\RdlCompile.compiled
+G:\v3.6 source code\INF.Web\obj\Debug\INF.Web.dll
+G:\v3.6 source code\INF.Web\obj\Debug\INF.Web.xml
+G:\v3.6 source code\INF.Web\obj\Debug\INF.Web.pdb
+F:\v3.7 source\INF.Web\bin\Admin\rdlc\OrdersMonthly.rdlc
+F:\v3.7 source\INF.Web\bin\Admin\rdlc\SalesReport.rdlc
+F:\v3.7 source\INF.Web\bin\INF.Web.dll.config
+F:\v3.7 source\INF.Web\bin\INF.Web.dll
+F:\v3.7 source\INF.Web\bin\INF.Web.pdb
+F:\v3.7 source\INF.Web\bin\INF.Web.xml
+F:\v3.7 source\INF.Web\bin\AjaxControlToolkit.dll
+F:\v3.7 source\INF.Web\bin\CKEditor.NET.dll
+F:\v3.7 source\INF.Web\bin\CustomPrint.dll
+F:\v3.7 source\INF.Web\bin\INF.Database.dll
+F:\v3.7 source\INF.Web\bin\INF.Web.Data.dll
+F:\v3.7 source\INF.Web\bin\INF.Web.UI.dll
+F:\v3.7 source\INF.Web\bin\itextsharp.dll
+F:\v3.7 source\INF.Web\bin\log4net.dll
+F:\v3.7 source\INF.Web\bin\Microsoft.ReportViewer.Common.dll
+F:\v3.7 source\INF.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\v3.7 source\INF.Web\bin\Microsoft.ReportViewer.WebForms.dll
+F:\v3.7 source\INF.Web\bin\SagePay.IntegrationKit.DotNet.dll
+F:\v3.7 source\INF.Web\bin\Castle.Core.dll
+F:\v3.7 source\INF.Web\bin\INF.Database.pdb
+F:\v3.7 source\INF.Web\bin\INF.Web.Data.pdb
+F:\v3.7 source\INF.Web\bin\INF.Web.UI.pdb
+F:\v3.7 source\INF.Web\obj\Debug\INF.Web.vbprojResolveAssemblyReference.cache
+F:\v3.7 source\INF.Web\obj\Debug\INF.Web.AdminConstanst.resources
+F:\v3.7 source\INF.Web\obj\Debug\INF.Web.Resources.resources
+F:\v3.7 source\INF.Web\obj\Debug\INF.Web.vbproj.GenerateResource.Cache
+F:\v3.7 source\INF.Web\obj\Debug\RdlCompile.cache
+F:\v3.7 source\INF.Web\obj\Debug\RdlCompile.compiled
+F:\v3.7 source\INF.Web\obj\Debug\INF.Web.dll
+F:\v3.7 source\INF.Web\obj\Debug\INF.Web.xml
+F:\v3.7 source\INF.Web\obj\Debug\INF.Web.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\Admin\rdlc\OrdersMonthly.rdlc
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\Admin\rdlc\SalesReport.rdlc
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.dll.config
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.xml
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\AjaxControlToolkit.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\CKEditor.NET.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\CustomPrint.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Database.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.Data.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.UI.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\itextsharp.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\log4net.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\SagePay.IntegrationKit.DotNet.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\Castle.Core.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Database.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.Data.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web\bin\INF.Web.UI.pdb
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\INF.Web.vbprojResolveAssemblyReference.cache
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\INF.Web.AdminConstanst.resources
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\INF.Web.Resources.resources
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\INF.Web.vbproj.GenerateResource.Cache
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\RdlCompile.cache
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\RdlCompile.compiled
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\INF.Web.dll
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\INF.Web.xml
+C:\Important\v3.8 source\v3.8 source\INF.Web\obj\Debug\INF.Web.pdb

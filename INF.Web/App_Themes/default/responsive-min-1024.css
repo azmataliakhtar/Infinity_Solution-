@@ -1,0 +1,254 @@
+
+
+
+@media screen and (min-width: 1024px) {
+
+.fchbSecond {
+/* height: 26px;
+left: 220px;
+width: 250px;*/
+
+left: 358px !important;
+margin-left: 22px;
+top: 8px;
+}
+
+
+.shopLogo
+{
+    float:left !important;
+    width:100% !important;
+    height:100% !important;
+    background:url("imgs/logo.png") no-repeat scroll center 10px / 100% auto transparent !important;
+}
+
+ .navList > li
+ {
+    margin: 0 0 0 8px !important;
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+}
+
+ #closedSign,#openSign
+{
+	  margin-right: 10px !important;
+}
+
+
+ul.navList.enableShortNav {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+ul.navList.enableShortNav > li {
+    letter-spacing: 0px !important;
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+    margin-left: 8px !important;
+}
+
+ul.navList.enableShortNav > li a {
+    font-size: 15px !important;
+}
+
+
+ 
+ .tchFirst
+ {
+ 	font-size: 14px !important;
+ }
+
+
+#orderselection .contentpop 
+ {
+ 	  margin:150px auto 0 27.5% !important;
+ 	  width: 45% !important;
+ }
+
+.poporderDelivery > input {
+    float: left;
+
+}
+.btmtmb.fourthTmb
+{
+    margin-right:0px !important;
+}
+
+
+.btmtmb{
+    border-radius: 6px;
+    float: left;
+    height: 150px !important;
+    width: 231px !important;
+    margin-right: 20px !important;
+    margin-bottom: 0px !important;
+  
+}
+
+
+.firstOpt, .secondOpt {
+    float: left;
+    width: 50%;
+}
+
+.addrProfile{
+	width: 49% !important;
+
+}
+
+ .cateringShow .aboutusImg{
+ 	margin-right: 20px !important;
+    margin-top: 15px;
+    text-align: center;
+    width: auto !important;
+ }
+
+.cateringText {
+    float: left;
+    width: 555px !important;
+    margin-top: 0px !important;
+}
+
+.pgelem{
+	margin-left: 10px !important;
+}
+
+
+.sbld > label{
+	width: 60%;
+}
+
+.sbld:nth-child(2) > .datebx {
+    float: right;
+    width: 45%;
+}
+
+ .sbld:nth-child(2) > label{
+	width: 40%;
+}
+
+.secondBLine .selectbx {
+   width: 30%;
+}
+
+
+
+.fbld > input {
+    margin-right: 10% !important;
+}
+
+ .firstBLine .fbld{
+	width: 50% !important;
+}
+
+ .onlineTxt{
+ 	font-size: 16px !important;
+ }
+ 
+ .onlineTxt br{
+ 	display: block !important;
+ }
+
+
+.loginElement {
+    float: right !important;
+}
+
+
+.submitRecov {
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    width: 35%;
+    margin-top: 0px;
+}
+
+.inputemRecov input {
+    float: left;
+    width: 100% !important;
+}
+
+.inputemRecov {
+    width: 40%;
+}
+
+.secondPasRecov > p {
+    margin-bottom: 30px;
+}
+
+.cstmpg img {
+    float: left;
+    height: 128px !important;
+    margin-left: 50px;
+    margin-right: 60px;
+    margin-top: 30px;
+    width: 128px !important;
+}
+ 
+.secondPasRecov{
+    width: 70% !important;
+}
+
+ .custom-modal-popup {
+    margin: auto !important;
+    padding: 10px 20px !important;
+    width: 600px !important;
+    position: relative;
+}
+
+ #content_wrapper{
+	padding: 20px;
+}
+
+
+.rightSideContent {
+    width: 26%;
+}
+
+ #category_sidebar{
+ 	 width: 250px;
+ }
+
+ .middleCol {
+    background-color: #fff;
+    border-radius: 8px;
+    float: left;
+    margin-left: 2%;
+    padding: 10px;
+    width: 66%;
+}
+
+
+.leftSideContent {
+    margin-right: 0px;
+    width: 74%;
+}
+
+#page_container {
+    width: 1024px !important;
+}
+
+
+.leftCol{
+	width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} 

@@ -1,0 +1,23 @@
+﻿<%@ Master Language="VB" MasterPageFile="~/Admin/MasterPage.master" AutoEventWireup="false" CodeBehind="CategoryMaster.master.vb" Inherits="INF.Web.Admin.CategoryMaster" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="TitlePlaceHolder" runat="server">
+    <asp:ContentPlaceHolder runat="server" ID="TitlePlaceHolder">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="HeadPlaceHolder" runat="server">
+    <asp:ContentPlaceHolder ID="HeadPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="PageContent" runat="server">
+    <asp:ScriptManager runat="server" ID="ScriptManager1"></asp:ScriptManager>
+    <div class="row">
+        <aside class="col-sm-3 col-md-2 sidebar">
+            <asp:PlaceHolder runat="server" ID="SettingsPlaceHolder"></asp:PlaceHolder>
+            <asp:ContentPlaceHolder runat="server" ID="SidebarPlaceHolder"></asp:ContentPlaceHolder>
+        </aside>
+        <section class="col-sm-9 col-md-10 main" style="margin-top: 10px;">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>
+        </section>
+    </div>
+</asp:Content>

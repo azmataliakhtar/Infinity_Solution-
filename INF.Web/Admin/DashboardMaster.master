@@ -1,0 +1,20 @@
+﻿<%@ Master Language="VB" MasterPageFile="~/Admin/MasterPage.master" AutoEventWireup="false" CodeBehind="DashboardMaster.master.vb" Inherits="INF.Web.Admin.DashboardMaster" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="TitlePlaceHolder" runat="server">
+    <asp:ContentPlaceHolder runat="server" ID="TitlePlaceHolder">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="HeadPlaceHolder" runat="server">
+    <asp:ContentPlaceHolder ID="HeadPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="PageContent" runat="server">
+    <div class="col-sm-3 col-md-2 sidebar">
+        <asp:PlaceHolder runat="server" ID="SettingsPlaceHolder"></asp:PlaceHolder>
+        <asp:ContentPlaceHolder runat="server" ID="SidebarPlaceHolder"></asp:ContentPlaceHolder>
+    </div>
+    <div class="col-sm-9 col-md-10  main">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</asp:Content>

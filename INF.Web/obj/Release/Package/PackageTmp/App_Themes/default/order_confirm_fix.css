@@ -1,0 +1,144 @@
+
+
+
+.orderConfirm, .orderConfirmSecond, .orderConfirmThird{
+	float: left;
+	width: 100%;
+	background-color: #fff;
+	border-radius: 6px 6px 6px 6px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+.orderConfirm > h3 {
+    border-bottom: 1px solid;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0;
+    padding-bottom: 7px;
+    text-align: center;
+}
+
+.yourBillingAddr > div > h3, .yourDeliveryAddr > div > h3 {
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    padding-bottom: 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.yourDeliveryTiming > h3 {
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 220px) {
+
+
+.yourBillingAddr .row > .col-md-3 {
+    float: left;
+    width: 40%;
+}
+
+.yourBillingAddr .row > .col-md-9 {
+    float: left;
+    width: 60%;
+}
+
+.yourDeliveryTiming {
+    background-color: #eee;
+    border-bottom: medium none;
+    border-radius: 6px;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+
+.yourBillingAddr {
+    background-color: #eee;
+    border-radius: 6px;
+    float: left;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.yourDeliveryAddr {
+    background-color: #eee;
+    border-radius: 6px;
+    float: right;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+
+}
+
+
+.ifLoginContainer
+{
+	top:106px !important;
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+.yourBillingAddr {
+    background-color: #eee;
+    border-radius: 6px;
+    float: left;
+    padding: 10px;
+    width: 49%;
+}
+
+
+.yourDeliveryAddr {
+    background-color: #eee;
+    border-radius: 6px;
+    float: right;
+    padding: 10px;
+    width: 49%;
+}
+
+
+
+
+.yourBillingAddr .row > .col-md-3 {
+    float: left;
+    width: 25%;
+}
+
+.yourBillingAddr .row > .col-md-9 {
+    float: left;
+    width: 75%;
+}
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 1024px) {
+
+}

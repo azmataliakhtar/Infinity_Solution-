@@ -1,0 +1,405 @@
+
+
+
+@media screen and (min-width: 220px) {
+
+.firstSectionPlugin, .secondSectionPlugin{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#ctl00_ucHeader_pnlOrderTypeAndPostCode {
+   
+    display: none;
+    float: left;
+    font-family: "Oswald";
+    font-size: 14px;
+    line-height: 12px;
+    padding: 10px 10px 10px 5px;
+    right: 0px;
+    top: 0px;
+    z-index: 10000;
+    position: fixed;
+    width: 100%;
+}
+
+.marginTopMobi
+{
+	margin-top:34px;
+}
+
+.rightSideContent
+{
+	width: 100%;
+}
+
+#sidebar{
+	margin-top: 20px;
+}
+
+.poporderDelivery > a{
+	text-align: center;
+	width: 100%;
+}
+
+.poporderDelivery > a i{
+	float: left;
+	margin-top: 4px;
+
+}
+
+.poporderDelivery > input {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.poporderDelivery > p {
+    margin-bottom: 5px;
+}
+
+
+#orderselection .contentpop 
+ {
+ 	  margin:150px auto 0 2.5%;
+ 	  width: 95%;
+ }
+
+.powBy{
+
+    width:100%;
+    text-align:center;
+
+}
+
+.socialPlugins {
+
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.btmcont{
+	margin-top: 3%;
+}
+
+.btmtmb:nth-child(2n) {
+    margin-right: 0;
+}
+
+
+/*.btmtmb{
+	height: 285px;
+    margin: 0 auto 20px;
+    width: 440px;
+}
+*/
+
+
+.btmtmb {
+    border-radius: 6px;
+    float: left;
+    height: auto;
+    margin-bottom: 3%;
+    margin-right: 3%;
+    width: 48.5%;
+}
+
+.firstOpt, .secondOpt {
+    float: left;
+    width: 100%;
+}
+
+ .orderSumm, .orderFinal {
+  
+    margin-right: 0%;   
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+.cstmsection.dealBasket
+{  
+    width: 100%;
+}
+
+
+.cstmsection.dealsSection {
+    margin-bottom: 20px;
+    margin-right: 0;
+    width: 100%;
+}
+
+
+.profile article {
+  
+    margin-right: 0%;
+    width: 100%;
+    margin-top:10px;
+  
+}
+
+
+.cateringShow .aboutusImg img{
+	width: 100% !important;
+}
+
+.cateringText{
+	width: 100%;
+}
+
+.ice-check2 > li {
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 50%;
+}
+
+ .cateringShow .aboutusImg{
+ 	margin-right: 0;
+    margin-top: 15px;
+    text-align: center;
+    width: 100%;
+ }
+
+.pgelem{
+	/*margin-left: 10px;
+    margin-right: 20px;*/
+}
+
+.openingTimes{
+    
+    border-radius:6px;
+}
+
+.selectbxtime{
+	margin-right: 0px;
+}
+
+.sbld > label{
+	width: 100%;
+}
+
+.sbld:nth-child(2) > .datebx {
+    width: 100%;
+}
+
+.sbld:nth-child(2) > label{
+	width: 100%;
+}
+
+.secondBLine .selectbx{
+	width: 100%;
+}
+
+.firstBLine .fbld{
+	width: 100%;
+}
+
+.reservationDiv{
+	margin: 20px 0 0;
+    width: 100%;
+}
+
+.rightSideCt {
+    float: left;
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+
+.loginElement {
+    float: none !important;
+}
+
+
+.secondPasRecov > p {
+    margin-bottom: 30px;
+}
+
+.cstmpg img{
+	display: none;
+}
+
+.emailRecov{
+
+    margin-right: 5%;
+    width: 15%;
+}
+
+.inputemRecov{
+	width: 60%;
+}
+
+.inputemRecov input{
+	width: 100% !important;
+}
+
+.submitRecov{
+	margin-top: 20px;
+    width: 60%;
+    text-align: center;
+}
+
+.secondPasRecov {
+    float: left;
+    margin-top: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.registerArticleContainer, .loginArticleContainer{
+	width: 100%;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+.custom-modal-popup {
+	margin: 135px auto;
+    padding: 10px 5% 5%;
+    width: 90%;
+    position: relative;
+}
+
+
+#content_wrapper{
+	padding: 10px;
+}
+
+
+.middleCol > div {
+    border-bottom: 1px solid #ccc;
+    float: left;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.leftSideContent {
+	background-color: #fff;
+    border-radius: 6px;
+    float: left;
+    width: 100%;
+}
+
+#category_sidebar, .leftCol{
+	display: none;
+}
+
+#menunavbarMobi{
+	display: block;
+}
+
+
+#mobiNavBar{
+	display: block;
+}
+
+ul.navList{
+	display: none;
+}
+
+.header .firstHeaderRow{
+	display: none;
+}
+
+
+#page_container {
+    width: 100% !important;
+    padding: 0px;
+}
+ 
+.headerRowMobi{
+	display: block;
+}
+
+.header .secondHeaderRow {
+    float: left;
+    height: 29px;
+    margin-top: 10px;
+    width: 100%;
+    display: none;
+}
+
+
+
+.orderOrCollP{
+	margin-bottom: 0px;
+}
+
+
+} 
+
+
+
+@media screen and (min-width: 480px) {
+ 
+
+ #orderselection .contentpop 
+ {
+ 	  margin:150px auto 0 10%;
+ 	  width: 80%;
+ }
+
+
+.cateringShow .aboutusImg img{
+	width: auto !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} 
+
+
+
+
+
+
+@media screen and (min-width: 302px) {
+
+    .btmtmb {
+        width: 127px;
+        height: 83px;
+    } 
+}
+
+@media screen and (min-width: 395px) {
+
+    .btmtmb {
+        width: 172px;
+        height: 112px;
+    } 
+}
+
+@media screen and (min-width: 486px) {
+
+    .btmtmb {
+        width: 216px;
+        height: 140px;
+    } 
+}
+
+@media screen and (min-width: 566px) {
+
+    .btmtmb {
+        width: 255px;
+        height: 165px;
+    } 
+}

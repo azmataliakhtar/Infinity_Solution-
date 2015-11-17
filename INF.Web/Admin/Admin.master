@@ -1,0 +1,22 @@
+﻿<%@ Master Language="VB" Inherits="INF.Web.Admin_Admin" MasterPageFile="~/Admin/MasterPage.master" CodeBehind="Admin.master.vb" %>
+
+<%@ Reference Control="~/Admin/GeneralSettingsUserControl.ascx" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="TitlePlaceHolder" runat="Server">
+    <asp:ContentPlaceHolder runat="server" ID="TitlePlaceHolder">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="HeadPlaceHolder" runat="Server">
+    <asp:ContentPlaceHolder ID="HeadPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="PageContent" runat="Server">
+    <div class="col-sm-3 col-md-2 sidebar">
+        <asp:PlaceHolder runat="server" ID="SettingsPlaceHolder"></asp:PlaceHolder>
+        <asp:ContentPlaceHolder runat="server" ID="SidebarPlaceHolder"></asp:ContentPlaceHolder>
+    </div>
+    <div class="col-sm-9 col-md-10 main">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</asp:Content>

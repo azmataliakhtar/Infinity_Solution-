@@ -1,0 +1,119 @@
+﻿body
+{
+}
+
+.shopping-cart-wrapper
+{
+    font-family: "Segoe UI" , "Segoe" , "Segoe WP" , "Arial" , "sans-serif";
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+
+.shopping-cart-header
+{
+    position: relative;
+    height: 35px;
+    vertical-align: middle; /*background-color: #EE3434;*/
+    background-color: #652368;
+    text-align: center;
+}
+
+.shopping-cart-header-title /*The style of basket Header*/
+{
+    color: White;
+    font-family: "Segoe UI" , "Segoe" , "Segoe WP" , "Arial" , "sans-serif";
+    font-size: 26px;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+    line-height: 32px;
+}
+
+.shopping-cart-non-products, .shopping-cart-products /* the style of basket content*/
+{
+    position: relative;
+    font-size: 13px; /*height: auto;*/ /*width:270px;*/
+    visibility: visible;
+    background-color: white; /* #FFFF99;*/
+    color: #363636; /*padding: 10px 5px 5px;*/
+    padding: 0px;
+}
+
+.shopping-cart-products-header /* Basket Column Header Product Name, Qty, Price */
+{
+    color: #363636;
+    font-size: 13px;
+    text-align: center;
+}
+
+.shopping-cart-products .total-price-caption, .shopping-cart-products .total-price-value
+{
+    font-family: "Segoe UI" , "Segoe" , "Segoe WP" , "Arial" , "sans-serif";
+    color: #363636;
+    font-weight: bold;
+    vertical-align: middle;
+    margin: auto;
+    text-align: right;
+}
+
+.shopping-cart-products .total-price-caption
+{
+    padding-right: 10px !important;
+}
+
+.shopping-cart-products table th, .shopping-cart-products table td
+{
+    font-family: "Segoe UI" , "Segoe" , "Segoe WP" , "Arial" , "sans-serif";
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 2px 2px 2px 5px;
+    font-size: 13px;
+}
+
+.shopping-cart-products table th {
+    background-color: #eee;
+}
+
+.shopping-cart-products table
+{
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.shopping-cart-products table td
+{
+}
+
+.postcode-price-caption, .postcode-price-value
+{
+    color: #363636;
+    text-align: right;
+    font-family: "Segoe UI" , "Segoe" , "Segoe WP" , "Arial" , "sans-serif";
+    font-weight: bold;
+}
+
+.postcode-price-caption
+{
+    padding-right: 10px !important;
+}
+
+.box-error-message, .box-info-message {
+    padding: 7px 10px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.box-error-message img, .box-info-message img {
+    margin-right: 5px;
+}
+
+.box-error-message {
+    color: red;
+}
+
+.box-info-message {
+    color: green;
+}
+.shopping_cart_deals{}

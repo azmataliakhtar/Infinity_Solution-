@@ -1,0 +1,3072 @@
+﻿
+
+body {
+    font-family: "Oswald",sans-serif;
+    font-size: 12px;
+    background: url('imgs/websitebg.jpg') repeat 0 0;
+    color: #363636;
+
+
+
+   
+
+}
+
+
+#ctl00_MainContent_chkCollectionOrder_ToggleButton {
+    left: -10px !important;
+}
+
+
+
+
+#ctl00_ucHeader_LinkButton1{
+    color: #fff;
+    display: block !important;
+    height: 17px !important;
+    opacity: 0;
+    text-decoration: none;
+    width: 18px;
+    margin-top: -17px;
+}
+
+#reset_order_type {
+    float: right;
+    margin-left: 5px;
+    margin-top: -2px !important;
+}
+
+
+
+.testBasket{
+    display: none;
+}
+
+
+.firstHeaderRow .firstCellH{
+    color: #fff;
+    float: left;
+    font-family: "Oswald",sans-serif;
+    font-size: 14px;
+    height: 100%;
+    margin-top: 0px;
+    line-height: 22px;
+    width: 6.8%;
+   /* position: relative;*/
+}
+
+.firstHeaderRow .secondCellH{
+    float:left;
+    width:53.2%;
+    height:100%;
+    background-color:transparent;
+}
+
+.firstHeaderRow .thirdCellH{
+    float:left;
+    width:40%;
+    height:77.5%;
+    position:relative;
+    
+}
+
+
+.fchBottom{
+    float:left;
+    width:100%;
+    height:44%;
+    margin-top: 55px;
+}
+
+.fchTop{
+   /* height: 47%;
+    width:100%;
+    padding-top: 15px;
+    text-align: left;*/
+
+   /* height: 47%;*/
+   /* line-height: 20px;
+    padding-top: 0px;
+    position: absolute;
+    text-align: left;
+    top:9px;*/
+    /*width: 350px;*/
+
+    left: 0;
+    line-height: 20px;
+    padding-top: 0;
+    position: absolute;
+    text-align: left;
+    top: 9px;
+
+}
+
+.tchFirst, .tchSecond{
+    float:left;
+    width:50%;
+    height:100%;
+}
+
+.tchFirst {
+    /*color: #eee;
+
+    line-height: 22px;
+    padding-right: 10px;
+    padding-top: 54px;
+    text-align: right;*/
+
+    color: #eee;
+    font-size: 16px;
+    height: 35px;
+    left: -32%;
+    position: absolute;
+    text-align: right;
+    text-shadow: 0 0 2px #cc0000;
+    top: 65px;
+    width: 220px;
+}
+
+
+
+.fchbFirst, .fchbSecond{
+    float:left;
+   
+    position: absolute;
+}
+
+.fchbFirst {
+    /*background: url("imgs/fishLogo.png") no-repeat scroll 113px 7px transparent;*/
+    /*height: 58px;
+    margin-top: -10px;
+    padding-right: 20px;
+    padding-top: 10px;
+    width: 240px;*/
+
+    bottom: -1px;
+    /*left: 435px;*/
+    left:42%;
+}
+
+.fchbSecond {
+   /* height: 26px;
+    left: 220px;
+    width: 250px;*/
+
+    bottom: 30px;
+    /*left: 358px;*/
+    left:;
+    margin-left: 22px;
+    top: 8px;
+}
+
+.fchbSecond > a br {
+    display: none;
+}
+
+.fchbSecond > a 
+{
+    color: #ffffff;
+    line-height: 12px;
+}
+
+
+.tchSecond{
+    position: absolute;
+    right: 16px;
+    top: -8px;
+}
+
+.img-responsive
+{
+    margin: 0 auto;
+    border-radius: 6px;
+}
+
+.addressIcon, .phoneIcon, .onlineIcon
+{
+   
+
+    border-radius: 100px;
+    /*box-shadow: 1px 0 2px #666;*/
+    
+    float: left;
+    font-size: 18px;
+    height: 24px;
+    line-height: 18px;
+    margin-right: 0px;
+    text-align: center;
+    vertical-align: top;
+    width: 24px;
+}
+
+.onlineIcon{
+    line-height:18px;
+
+}
+
+.onlineIcon i{
+    font-size: 16px;
+    text-align: center;
+}
+
+#openSign
+{
+    background: url("imgs/sumo_open.png") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 87px;
+    margin-right: 28px;
+    margin-top: 20px;
+    width: 100px;
+    display:none
+}
+
+#openSignMobile
+{
+    background: url("imgs/openSign.png") no-repeat scroll 0 0 / 100% auto transparent;
+    float: right;
+    height: 55px;
+    margin-left: 8px;
+    margin-right: 0;
+    margin-top: 20px;
+    width: 60px;
+    display:none
+}
+
+
+
+#closedSign
+{
+    background: url("imgs/sumo_closed.png") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 87px;
+  
+    margin-top: 20px;
+    width: 100px;
+    display:none
+}
+
+#closedSignMobile
+{
+   background: url("imgs/closedSign.png") no-repeat scroll 0 0 / 100% auto transparent;
+    display: none;
+    float: right;
+    height: 55px;
+    margin-left: 8px;
+    margin-right: 0;
+    margin-top: -11px;
+    width: 60px;
+}
+
+#reservationSuccess{
+    float:left;
+    width:100%;
+    text-align:center;
+    color:green;
+    font-size:16px;
+    margin-bottom:20px;
+    margin-top:20px;
+    display:none;
+}
+
+#countdown {
+    
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+
+.secondSpan{
+    font-size:19px;
+    color:#FFF;
+   
+}
+
+
+.btmcont{
+    float: left;
+    width: 100%;
+}
+
+
+.btmtmb a{
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.btmtmb span{
+   bottom: 0;
+    color: #333;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10px;
+    background-color: #fff;
+    padding-top: 10px;
+    border-radius: 0px 0px 6px 6px;
+    font-size: 14px;
+    background: url(imgs/tmbbkg.png) repeat 0 0;
+}
+
+
+.btmtmb img{
+    border-radius: 6px;
+    height: 100%;
+    width: 100%;
+}
+
+.footer {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #eee;
+    font-family: "Oswald",sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.footer a {
+    color: #eee;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+html a:hover{
+    text-decoration:none;
+}
+
+
+.orderReview{
+    background-color: #fff;
+    border-radius: 10px;
+    float: left;
+    width: 100%;
+    padding:10px;
+}
+
+.order-review-wrapper {
+    float: left;
+    width: 100%;
+}
+
+.ordrevHeader{
+   
+    font-family: "Oswald";
+    font-size: 20px;
+    line-height: 1.42857;
+    margin-bottom: 5px 10px 10px 10px;
+    margin-top: 0;
+    padding-bottom: 2px;
+    text-align: center;
+}
+
+.ordrevHeader i {
+    float: left;
+    font-size: 22px;
+    margin-right: -22px;
+    margin-top: 3px;
+}
+
+.orderSumm, .orderFinal {
+    background-color: #eee;
+    border-radius: 6px;
+    box-shadow: 1px 1px 2px #aaa;
+    float: left;
+
+    padding: 0 10px 10px;
+
+}
+
+.orderSumm .shopping-cart-wrapper {
+    background-color: #eee;
+}
+
+.orderSumm .shopping-cart-header {
+    float: left;
+    font-family: "Oswald",sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 9px;
+    position: relative;
+    text-align: left;
+    width: 100%;
+ 
+}
+
+.ovbActions a i{
+    font-size:16px;
+    color:#aaa;
+    cursor:pointer;
+}
+
+
+.ovbActions .addQty {
+    margin-right: 5px;
+}
+
+.ovbName {
+    padding-left: 10px !important;
+    text-align: left !important;
+}
+
+.ovbrSecond {
+    font-weight: lighter !important;
+    padding-left: 30px !important;
+    text-align: left !important;
+}
+
+.ovbrThird, .ovbrFourth {
+    border-left: 1px solid #eee !important;
+}
+
+
+.ovbTotalPriceVal{
+    font-weight:normal;
+}
+
+.darkBckg2{
+    background-color:#ddd;
+}
+
+
+
+.order-review-shopping-cart {
+    float: left;
+    width: 100%;
+}
+
+.ovbVoucher {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: right;
+    width: 100%;
+    display: none;
+}
+
+.ovbBtmPart {
+    float: left;
+    padding: 10px;
+    width: 100%;
+}
+
+.ovbBtmPart > p {
+    font-size: 14px;
+    font-weight: lighter;
+    line-height: 12px;
+    text-transform: lowercase;
+}
+
+.editBtnCont input {
+    background-color: #bbb;
+    float: right;
+    margin-top: 10px;
+    color:#333333;
+}
+
+.order-detail-wrapper {
+    float: left;
+    padding: 5px 10px 10px;
+    width: 100%;
+}
+
+
+.orderDetHeader{
+ 
+    float: left;
+    font-family: "Oswald",sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 16px;
+    position: relative;
+    text-align: right;
+    width: 100%;
+    margin-top:3px;
+}
+
+.orderDetHeader i {
+    float: left;
+    font-size: 21px;
+    line-height: 19px;
+    margin-bottom: -2px;
+}
+
+#fs_ordertypes {
+    float: left;
+    width: 100%;
+}
+
+.ordrTypeText {
+    float: left;
+    font-family: "Oswald";
+    font-size: 14px;
+}
+
+.ordrTypeVal {
+    float: right;
+    font-size: 14px;
+    font-weight: normal !important;
+}
+
+.accountInfo {
+    float: left;
+    width: 100%;
+}
+
+.customInfo {
+  
+    float: left;
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.accountInfo > table {
+    float: left;
+    width: 100%;
+}
+
+.accountInfo > table {
+    float: left;
+    width: 100%;
+}
+
+#tbl_customer_info input {
+    padding: 5px !important;
+}
+
+#tbl_customer_info label {
+    font-weight: normal;
+}
+
+.accountInfo > div:last-child {
+    float: left;
+    margin-top: 20px !important;
+    width: 100%;
+    height:auto !important;
+}
+
+#fs_customer_address > h3 {
+    float: left;
+    font-family: "Oswald";
+    font-size: 14px;
+    font-weight: normal !important;
+    margin-top: 0 !important;
+    width: 100%;
+}
+
+#fs_customer_address > div {
+    float: left;
+    width: 100%;
+}
+
+.tbl-existing-addresses {
+    float: left;
+    width: 100%;
+}
+
+.tbl-existing-addresses tr {
+    float: left;
+    width: 50%;
+}
+
+.tbl-existing-addresses label.addrLabel {
+    font-weight: normal;
+}
+
+.tbl-existing-addresses tr {
+    background-color: #fff !important;
+    border: 1px dashed #aaa;
+    border-radius: 6px;
+    float: left;
+    margin-bottom: 3%;
+    margin-right: 3%;
+    padding: 1%;
+    width: auto;
+}
+
+.addrLbl{
+    text-align: left;
+    padding: 2px 3px 3px 5px; 
+    font-size: 12px;
+}
+
+.addrChk{
+    width: 20px; 
+    text-align: center;
+    border-top: none;
+}
+
+.addrRmv{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    text-align: center;
+    vertical-align: top;
+    width: 20px;
+}
+
+.addNewAddr
+{
+    background-color:transparent;
+    border:medium none !important;
+}
+
+.tbl-existing-addresses tr.addNewAddr {
+    background-color: transparent !important;
+}
+
+.addNewAddrBtn
+{
+    background-color: rgb(187, 187, 187);
+    border: 1px solid rgb(187, 187, 187);
+    color: rgb(51, 51, 51);
+}
+
+.addNewAddrBtn:hover, .addNewAddrBtn:focus{
+    background-color:#ccc;
+    color:rgb(51, 51, 51);
+    border:1px solid #bbb;
+}
+
+#ctl00_MainContent_pnlUpdateAddress {
+
+ 
+}
+
+.transparent_class {
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+  /* IE 5-7 */
+  filter: alpha(opacity=0);
+
+  /* Netscape */
+  -moz-opacity: 0;
+
+  /* Safari 1.x */
+  -khtml-opacity: 0;
+
+  /* Good browsers */
+  opacity: 0;
+}
+
+
+.fchbSecond > a:hover{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#pnlModalPopupHeader h3 {
+    float: left;
+    font-family: "Oswald";
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#pnlModalPopupHeader {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+
+.whatTimeFieldset
+{
+    float:left;
+    width:100%;
+    margin-top:10px;
+}
+
+.whatTimeFieldset h3{
+    float: left;
+    font-family: "Oswald";
+    font-size: 14px;
+    font-weight: normal !important;
+    margin-top: 0 !important;
+    width: 100%;
+}
+
+.ovbBtmPart {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+
+.whatTimeFieldset > div {
+    float: left;
+    width: 100%;
+}
+
+
+
+.firstOpt > label {
+    cursor: pointer;
+    font-weight: normal;
+    margin-left: 9px;
+    text-transform: lowercase;
+}
+
+
+
+.secondOpt > label {
+    cursor: pointer;
+    font-weight: normal;
+    margin-left: 9px;
+    text-transform: lowercase;
+}
+
+
+
+#fs_payment_method{
+    float:left;
+    width:100%;
+    margin-top:10px;
+}
+
+#fs_payment_method h3{
+    float: left;
+    font-family: "Oswald";
+    font-size: 14px;
+    font-weight: normal !important;
+    margin-top: 0 !important;
+    width: 100%;
+}
+
+
+#checkout_div_payment_methods {
+    float: left;
+    width: 100%;
+}
+
+.check-delivery-order-type > label {
+    margin-left: 20px;
+}
+
+.paymCont
+{
+    float:left;
+    width:90%;
+    background-color:#fff;
+    border-radius:6px;
+    border:1px solid #ccc;
+    padding: 10px;
+}
+
+.paymCont > span {
+    float: left;    
+    width: 100%;
+}
+
+.paymCont > span:last-child {
+    margin-top: 0px;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+.paymCont > span:first-child > div {
+    float: left;
+    height: 32px;
+    width: 48px;
+}
+
+.paymCont > span:first-child label {
+    color: #333;
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 6px;
+    cursor:pointer;
+}
+
+
+
+#ctl00_MainContent_lblCardCharges {
+    
+    font-size: 12px;
+    margin-top: 0;
+}
+
+.paymCont:last-child > span:nth-child(2)  {
+    margin-top: 0px;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+.confirmBtnCont{
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+    text-align:center;
+}
+
+.confirmBtnCont input{
+
+    border-width: 0;
+
+    width: 80%;
+    cursor:pointer;
+    height:32px;
+}
+
+
+
+#PGContainer {
+    float: left;
+    width: 100%;
+    min-height: 955px;
+}
+
+.pgelem{
+     cursor: pointer;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 0px;
+    opacity: 0.9;
+    padding-right:5px;
+    padding-bottom:5px;
+    padding-top:5px;
+    padding-left:5px;
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.pgelem:hover{
+    opacity:1;
+}
+
+.pgelem img{
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px #444;
+    float: left;
+    height: 100%;
+    width: 100%;
+}
+
+.cstmContainer {
+    float: left;
+    width: 100%;
+    padding-top:10px;
+}
+
+.testimon {
+    background-color: #eee;
+    border-radius: 6px;
+    box-shadow: 1px 1px 4px #777;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 300px;
+}
+
+.testimon .topRow, .testimon .bottomRow {
+    float: left;
+    width: 100%;
+}
+
+.testimon .topRow > img {
+    float: left;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-right: 6px;
+    width: 90px;
+}
+
+.topRRow {
+    float: left;
+    width: 180px;
+}
+
+.dateTestim {
+    float: left;
+    font-family: "Oswald";
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    width: 100%;
+    margin-top:6px;
+}
+
+.nameTestim {
+    float: left;
+    text-align: left;
+    width: 100%;
+}
+
+.occupTestim {
+    color: #555;
+    float: left;
+    font-size: 12px;
+    width: 100%;
+}
+
+.testimon .bottomRow {
+    color: #333;
+    font-size: 14px;
+    font-weight: lighter;
+    letter-spacing: 0.3px;
+    margin-top: 5px;
+}
+
+.bottomRow .fa-quote-left {
+    margin-right: 2px;
+}
+
+.bottomRow .fa-quote-right {
+    margin-left: 2px;
+}
+
+.aboutusHide{
+    display:none;
+}
+
+.aboutUsNew {
+    float: left;
+    width: 100%;
+    min-height:400px;
+}
+
+.aboutusImg, .contactusImg {
+    float: left;
+    margin-right: 10px;
+}
+
+.aboutusImg > img, .contactusImg > img {
+    border-radius: 6px;
+}
+
+.aboutusTxt {
+    float: left;
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: left;
+    width: 720px;
+}
+
+.contactusHidden{
+    display:none;
+}
+
+.contactusTxt{
+    float:left;
+    width:300px;
+}
+
+.aboutus2 {
+    border: 1px solid #aaa;
+    border-radius: 6px;
+    float: right;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+.cateringText {
+    float: left;
+}
+
+.cateringText h2 {
+    font-family: "Oswald";
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.cateringText > p {
+    color: #222;
+    font-size: 14px;
+    font-weight: lighter;
+    letter-spacing: 0.6px;
+}
+
+.ice-check2 {
+    font-size: 13px;
+    padding-left: 10px;
+}
+
+.cateringShow {
+    float: left;
+    min-height: 450px;
+    width: 100%;
+}
+
+
+
+.finestspicesText{
+    float:left;
+    width:500px;
+}
+
+.finestspicesText h2 {
+    font-family: "Oswald";
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.finestspicesText > p {
+    color: #222;
+    font-size: 14px;
+    font-weight: lighter;
+    letter-spacing: 0.6px;
+}
+
+
+.profile article {
+    background-color: #eee;
+    border-radius: 6px;
+    float: left;
+    padding: 10px;  
+}
+
+.profile article h4 {
+    margin-top: 0;
+}
+
+.profile article label {
+    float: left;
+    font-weight: normal;
+    width: 30%;
+}
+
+.profile article input {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    float: left;
+    margin-bottom: 10px;
+    padding: 6px;
+    width: 70%;
+}
+
+#ctl00_MainContent_btnUpdateInformation, #ctl00_MainContent_btnSaveChangePassword {   
+    border-radius: 5px;   
+    float: right;
+    margin-top: 10px;
+    padding: 6px 10px;
+    width: 40%;
+}
+
+
+
+.addrProfile {
+    background-color: #fff;
+    border: 1px dashed #999;
+    border-radius: 6px;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 1%;
+    padding: 5px;
+}
+
+.changeaddr{
+    background-color: #aaa;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    padding: 5px;
+    width: 90px !important;
+    cursor:pointer;
+}
+
+.cstmsection{
+    min-height:400px;
+}
+
+.privacycnt {
+    float: left;
+    padding: 1%;
+    width: 100%;
+    font-size: 14px;
+}
+
+.psubhead {
+    
+    margin-top: 40px;
+}
+
+.ifLoginContainer{
+    position: absolute;
+    right: 10px;
+    overflow: hidden;
+    top: 113px;
+}
+
+.welcomeSettings {
+    float: right;
+    margin-left: 5px;
+    color: #eee;
+    font-size: 16px;
+    line-height: 12px;
+    cursor:pointer;
+}
+
+
+.welcomeName {
+    float: right;
+    color: #eee;
+    font-size: 14px;
+    line-height: 14px;
+    margin-left: 10px;
+    text-align: right;
+}
+
+
+.overlay {
+    background-color: #444;
+    height: 100%;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    display:none;
+}
+
+
+
+
+/*.contentpop > div > p {
+    float: left;
+    width: 100%;
+    font-weight: lighter;
+    font-size: 14px;
+    text-align: left;
+}*/
+
+.poporderDelivery {
+    float: left;
+    width: 49%;
+    padding: 10px;
+    border-right: 1px dashed #bbb;
+    font-size: 14px;
+}
+
+.poporderCollection {
+  
+    float: right;
+    width: 49%;
+    margin-left: 1%;
+    position:relative;
+    padding:10px;
+    font-size: 14px;
+}
+
+.poporderDelivery > input {
+    float: left;
+    padding: 10px;
+}
+
+.poporderDelivery > a {
+
+    color: #eee;
+    float: right;
+    font-size: 18px;
+    padding: 7px;
+    border-radius: 6px;
+    margin-top: -1px;
+}
+
+
+
+#opt_collection_order {
+    
+    border-radius: 6px;
+    color: #eee !important;
+    float: right;
+    font-size: 17px;
+    padding: 7px;
+    text-align: center;
+    width: 100%;
+
+}
+
+
+
+.reservationCnt {
+    float: left;
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.reservationDiv {
+    background-color: #eee;
+    border-radius: 6px;
+    box-shadow: 1px 1px 2px #aaa;
+    float: left;  
+    padding: 10px;
+}
+
+.firstBLine {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+    margin-top:5px;
+}
+
+.secondBLine {
+    float: left;
+    width: 100%;
+    margin-top:10px;
+}
+
+.thirdBLine {
+    float: left;
+    width: 100%;
+    margin-top:20px;
+    margin-bottom:10px;
+    text-align:center;
+}
+
+.errorLine{
+    float:left;
+    width:100%;
+    margin-top: 20px;
+    margin-bottom:10px;
+    display:none;
+    text-align:center;
+    
+}
+
+.thirdBLine > input {
+   
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px 10px;
+    width: 250px;
+}
+
+
+
+
+.fourthBLine{
+    float:left;
+    width:100%;
+}
+
+.fourthBLine label{
+    float:left;
+    width:100%;
+    font-weight:normal;
+    font-size:14px;
+}
+
+.fourthBLine textarea{
+    float:left;
+    width:100%;
+    margin-top:10px;
+}
+
+.firstBLine .fbld {
+    float: left;
+    margin-bottom: 5px;
+}
+
+.fbld > label {
+    font-size: 14px;
+    font-weight: normal;
+    width: 30%;
+}
+
+.fbld > input {
+   
+    border-radius: 4px;
+   
+    float: right;
+
+    padding: 4px;
+    width: 56%;
+   
+}
+
+.secondBLine .sbld {
+    float: left;
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.sbld > label {
+    float: left;
+    font-weight: normal;
+}
+
+.secondBLine .selectbx {
+    float: right;
+    margin-right: 5%;
+    text-align: right;
+    width: 30%;
+}
+
+#selectPeople {
+    border-radius: 4px;   
+    float: right;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.sbld:nth-child(2) > label {
+    float: left;
+    font-weight: normal;
+
+}
+
+.sbld:nth-child(2) > .datebx {
+    float: right;
+    
+}
+
+.selectbxMonth {
+    float: right;
+    margin-right: 10px;
+}
+
+.selectbxDay {
+    float: right;
+}
+
+.selectbxtime {
+    float: right;
+    margin-right: 5%;
+}
+
+
+
+.TimeBlock{
+    color:#fff !important;
+    text-align: right !important;
+}
+
+
+.socialPlugins {
+    float: left;
+    width: 60%;
+}
+
+.firstSectionPlugin {
+    float: left;
+    background-color: #fff;
+    border-radius: 6px;
+    width: 210px;
+    box-shadow: 1px 1px 2px #555;
+    margin-right: 10px;
+    height:60px;
+}
+
+#facebook body.plugin.gecko .pluginSkinLight.pluginFontHelvetica > div.clearfix {
+    padding-top: 6px !important;
+}
+
+.firstSectionPlugin .fb-like-box
+{
+    margin-top:-4px;
+}
+
+.secondSectionPlugin {
+    float: left;
+}
+
+.TA_restaurantWidgetWhite {
+    float: left;
+}
+
+.TA_restaurantWidgetWhite > div {
+    float: left;
+}
+
+.TA_restaurantWidgetWhite > div > span {
+   background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 1px 2px 2px #555;
+    float: left;
+    height: 58px;
+    width: 100%;
+}
+
+.TA_restaurantWidgetWhite > div > span .rightSide {
+    position: absolute !important;
+    top: 8px !important;
+}
+
+.powBy{
+    float:right;
+    padding-top:8px;
+}
+
+.tripadvisor .cateringShow {
+    margin-left: 195px;
+}
+
+
+
+/* SHOPPING CART CSS */
+
+
+.shopping-cart-wrapper
+{   
+    width: 100%;
+    height: auto;
+    background-color: #efefef;
+    border-radius:6px;
+    float:left;
+    padding:5px 10px 10px;
+}
+
+.shopping-cart-header
+{
+    position: relative;
+   
+    border-bottom: 1px solid;
+
+    float: left;
+    font-family: "Oswald",sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 6px;
+    padding-bottom: 2px;
+    text-align: center;
+    width: 100%;
+}
+
+.shopping-cart-header i {
+   float: right;
+    font-size: 22px;
+    height: 100%;
+    line-height: 100%;
+    margin-top: 2px;
+}
+
+.shopping-cart-products table th {
+    background-color: #eee;
+    border-bottom: 1px solid #aaa;
+    border-left: 1px solid #aaa;
+    border-top: medium none;
+    color: #222;
+    font-weight: lighter;
+    letter-spacing: 0.3px;
+    padding:2px 2px 4px;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+
+.shopping-cart-products table th:first-child{
+    border-left:medium none !important;
+}
+
+.shopping-cart-products table
+{
+    /*border-bottom: 1px solid #ccc;*/
+}
+
+
+.shopping-cart-products table td {
+    border-bottom: 1px solid #aaa;
+    border-left: 1px solid #aaa;
+    text-align: center;
+    padding: 2px;
+    color: #333;
+    font-weight: normal;
+}
+
+.ttlPrice {
+    min-width: 60px;
+}
+
+.total-price-caption {
+    text-align: right !important;
+}
+
+
+
+.nmPrd {
+    padding-left: 10px !important;
+    text-align: left !important;
+}
+
+.shopping-cart-products table tr td:first-child{
+    border-left:medium none !important;
+}
+
+
+.delPrd {
+    color: #ccc !important;
+    font-size: 16px;
+    line-height: 12px;
+}
+
+.delPrd a i{
+    color:#ccc;
+    cursor:pointer;
+}
+
+
+
+.sbprdName {
+    font-weight: lighter !important;
+    padding-left: 15px !important;
+    text-align: left !important;
+}
+
+
+.shopping-cart-products .total-price-caption {
+    font-weight: normal;
+    padding-bottom: 2px;
+    padding-right: 10px;
+    padding-top: 2px;
+    text-transform: lowercase;
+}
+
+
+.postcode-price-caption {
+    padding-right: 10px !important;
+    text-align: right !important;
+    text-transform: lowercase;
+}
+
+.additInfoLabel{
+    font-weight: lighter;
+    margin-top: 10px;
+    text-align: left;
+    text-transform: lowercase;
+}
+
+.additInfo > td {
+    border-bottom: medium none !important;
+    text-align: left !important;
+}
+
+#DivCheckOut {
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#DivCheckOut a img{
+    opacity:0.9;
+    cursor:pointer;
+}
+
+#DivCheckOut a img:hover{
+    opacity:1;
+    cursor:pointer;
+}
+
+.imgClosedSign {
+    float: left;
+    height: auto;
+    width: 100%;
+}
+
+.contactusPhone {
+    color: #bc0000;
+}
+
+
+.additInfo
+{
+    background-color: #efefef !important;
+}
+
+.shopping-cart-non-products, .shopping-cart-products /* the style of basket content*/
+{
+    float:left;
+    width:100%;
+    position: relative;
+    font-size: 13px; /*height: auto;*/ /*width:270px;*/
+    visibility: visible;
+    background-color: #efefef; /* #FFFF99;*/
+    color: #363636; /*padding: 10px 5px 5px;*/
+    padding: 0px;
+}
+
+.shopping-cart-non-products{
+    text-align:center;
+}
+
+.shopping-cart-products-header /* Basket Column Header Product Name, Qty, Price */
+{
+    color: #363636;
+    font-size: 13px;
+    text-align: center;
+}
+
+.darkBckg {
+    background-color:#eee;
+}
+
+
+
+.sbrpdnbsp, .sbprdPrice{
+    border-left:medium none !important;
+}
+
+
+.box-error-message, .box-info-message {
+    padding: 7px 10px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.box-error-message img, .box-info-message img {
+    margin-right: 5px;
+}
+
+.box-error-message {
+    color: red;
+}
+
+.box-info-message {
+    color: green;
+}
+
+
+.paymentIcons {
+    background-color: #fff;
+    border-radius: 6px;
+    float: left;
+    margin-top: 10px;
+    padding: 5px;
+    width: 100%;
+    text-align:center;
+}
+
+.paymentIcons img{
+    margin: 0 auto;
+    height:35px !important;
+}
+
+.shopping_cart_deals .paymentIcons img{
+    margin: 0 auto;
+   
+}
+
+
+.shopping_cart_deals .paymentIcons{
+    padding: 0px !important
+}
+
+
+
+
+
+
+/****** ORDERED STYLESHEET ***/
+
+
+
+
+
+#page_container_inner {
+   background-color: transparent;
+}
+
+
+#content_wrapper {
+    border-radius: 10px;
+    padding: 20px;
+    float:left;
+    width:100%;
+    min-height: 400px;
+}
+
+.headerRowMobi{
+    float: left;
+    width: 100%;
+}
+
+.firstHeaderRowMobi{
+    float:left;
+    height: 40px;
+    width:100%;
+    position: fixed;
+    z-index: 10000;
+}
+
+.shopLogo
+{
+    float:left;
+    width:100%;
+    height:100%;
+    background:url("imgs/logo.png") no-repeat scroll center 10px / 100% auto transparent;
+}
+
+.shopLogoMobi{
+    background: url("imgs/logo2.png") no-repeat scroll 3px 2px / 89% auto transparent;
+    float: left;
+    height: 100%;
+    width: 140px;
+}
+
+.basketMobi {
+    float: right;
+    height: 100%;
+    max-width: 140px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    width: 80px;
+}
+
+.secondHeaderRowMobi {   
+    float: left;
+    width: 100%;
+    margin-top: 45px;
+}
+
+.secondHeaderRowMobi > div {
+    float: left;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    width: 100%;
+}
+
+.firstSubRow {
+    float: left !important;
+    width: auto !important;
+    margin-left: 5px;
+}
+
+.firstSubRow > span:nth-child(2) {
+    float: left;
+}
+
+.thirdSubRow{
+    width: 50% !important;
+    padding-left: 5px;
+}
+
+.thirdSubRow > a {
+    float: left;
+}
+
+
+.fourthSUbRow{
+    float: right !important;
+    width: 50% !important;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.secondSubRow{
+    float: right !important;
+    padding-right: 8px;
+    position: absolute;
+    right: 0;
+    width: auto !important;
+}
+
+.mbhi
+{
+    float: left;
+    font-size: 18px;
+    height: 24px;
+    line-height: 21px;
+    margin-right: 5px;
+    text-align: center;
+    vertical-align: middle;
+    width: 26px;
+    border-radius: 100px;
+}
+
+.phnIcn.mbhi {
+    float: right;
+    font-size: 22px;
+    line-height: 18px;
+    margin-left: 5px;
+    margin-right: 0;
+    padding-right: 1px;
+    text-align: center;
+    width: 26px;
+}
+
+.header {
+   width:100%;
+   float:left;
+   background-color:transparent;
+   position:relative;
+}
+
+
+.header .firstHeaderRow{
+    float:left;
+    width:100%;    
+    height: 125px;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+
+.header .secondHeaderRow{
+    float:left;
+    width:100%;
+    margin-top:10px;
+    height:auto;
+
+}
+
+
+#mobiNavBar {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    border: medium none;
+    box-shadow: none;
+    display: block;
+    margin-bottom: 0;
+    min-height: 38px;
+    z-index: 10;
+}
+
+#mobiNavBar .container-fluid {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+}
+
+#mobiNavBar .navbar-header {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+}
+
+
+#mobiNavBar .navbar-brand {
+   
+    border-radius: 5px 5px 0 0;
+    color: #fff;
+    font-family: "Oswald";
+    font-size: 16px;
+    font-weight: normal !important;
+    height: auto;
+    line-height: 15px;
+    margin-right: 10px;
+    padding-bottom: 6px !important;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 8px;
+    text-align: center;
+    text-shadow: none !important;
+}
+
+
+#mobiNavBar .navbar-header > button {
+    
+    margin-bottom: 0;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    margin-top: 0px;
+}
+
+#mobiNavBar .navbar-brand:hover{
+    cursor: pointer;
+}
+
+#mobiNavBar i.fa {
+    margin-right: 5px;
+}
+
+#mobiNavBar .navbar-header{
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+
+#mobinav_collapse {
+    /*border-radius: 10px 10px 0px 0px;*/
+    box-shadow: 0 2px 3px #333;
+    font-size: 16px;
+    padding-left: 22px;    
+    margin-left: 0;
+    width: 100%;
+    z-index: 10000;
+}
+
+.mobiNavLinks #mobinav_collapse {
+    float: left;
+    left: 0;
+    position: absolute;
+    top: 40px;
+    width: 100%;
+}
+
+
+#mobiNavBar .container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/**  START Horizontal Menu **/
+
+ul.navList {
+    float: left;
+    list-style: outside none none;
+    margin-bottom: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+}
+
+.navList > li {
+    border-radius: 5px 5px 0 0;
+    display: inline;
+    float: left;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 0 8px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.navList > li:hover a{
+    text-decoration:none;
+}
+
+.navList > li:hover {    
+    cursor:pointer;
+}
+
+.loginElement {
+
+}
+
+ul.navList li a {    
+    float: left;
+    font-size: 15px;
+    padding: 5px 3px;
+    text-transform:uppercase;
+}
+
+
+
+
+ul.navList li a i {
+    float: left;
+    height: 100%;
+    margin-right: 6px;
+    margin-top: 3px;
+}
+
+ul.navList.enableShortNav > li a i{
+    margin-right: 4px;
+}
+
+/**  END Horizontal Menu **/
+
+
+
+
+/* START MENU PAGE */
+.menuSection {
+    float: left;
+    width: 100%;
+}
+
+.middleCol > div:last-child {
+    border-bottom: medium none;
+    margin-bottom: 0;
+}
+
+.rightSideContent {
+    float: left;
+}
+
+.leftCol{
+    float:left;
+}
+
+.customPopup {
+    background: url("imgs/popupbg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 200%;
+    left: 0 !important;
+    padding: 20px;
+    top: 0 !important;
+    width: 100%;
+
+}
+
+.custom-modal-popup {
+    background-color: #fff;
+    border-radius: 6px !important;
+    box-shadow: 0 0 16px #222;
+
+   
+}
+
+.customPopup .TitlebarLeft {
+    font-family: "Oswald";
+    font-size: 14px;
+    text-align: center;
+}
+
+.customPopup .popup-title {
+    float: left;
+    font-family: "Oswald";
+    font-size: 14px;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.customPopup .popup-body .checkbox > label {
+    cursor: pointer;
+    letter-spacing: 0.5px !important;
+}
+
+.okBtn, .cancelBtn {
+   
+    border-radius: 5px;   
+    font-size: 14px;
+    line-height: 30px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.customPopup .popup-body {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.customPopup .popup-body > table {
+    width: 100%;
+}
+
+
+.toppingDecision, .toppingPosition{
+    float:left;
+    width: 100%;
+    text-align:center;
+    margin-bottom: 10px;
+}
+
+
+.toppingDecision > h3, .toppingPosition > h3 {
+    
+    float: left;
+    font-family: "Oswald";
+    font-size: 14px;
+    width: 50%;
+    margin: 0px;
+}
+
+.yesToTopping, .noToTopping, .topPosLeft, .topPosRight{
+    float: left;
+    width: 25%;
+}
+
+.toppingTable {
+    float:left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.dealGrandName{
+    text-align: left;
+    padding-left: 20px;
+}
+
+.dealGrandPrice{
+    text-align: left;
+    border-left: 1px transparent !important;
+}
+
+.dealThreeCols{
+    text-align: left;
+    padding-left: 10px;
+}
+
+.dealOneCols{
+    text-align: left;
+}
+
+#category_sidebar {
+    background-color: #efefef;
+    border-radius: 6px;
+    float: left;
+    margin-right: 5px;
+    padding: 5px 10px 10px;
+   
+}
+
+.aImgBtn {
+    border-radius: 5px;  
+    float: left;
+    font-size: 20px;
+    line-height: 26px;
+    padding: 4px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.aImgBtn i.fa {
+    font-size: 22px;
+    line-height: 24px;
+    margin-right: 7px;
+    vertical-align: top;
+}
+
+#sidebar .shopping-cart-products .box-info-message {
+    padding-top: 0;
+    text-align: center;
+}
+
+.menuTitle {
+    float: left;
+    font-family: "Oswald",sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 6px;
+    padding-bottom: 2px;
+    text-align: center;
+    width: 100%;
+}
+
+.menuTitle i{
+    float: left;
+    height: 100%;
+    line-height: 100%;
+    margin-top: 4px;
+}
+
+
+.menu-categories {
+    float: left;
+    list-style: outside none none;
+    margin-bottom: 0;
+    padding-left: 0;
+    width:100%;
+}
+
+.menu-categories > li {
+    border-bottom: 1px solid #ccc;
+}
+
+.menu-categories li .menuButtons:hover
+{
+    cursor:pointer;
+}
+
+.menuButtons {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    font-size: 14px;
+    font-weight: normal;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left:10px;
+}
+
+.middleCol {
+    background-color: #fff;
+    border-radius: 6px;
+    float: left;
+    padding: 10px;
+}
+
+
+.middleCol > div {
+    border-bottom: 1px solid #ccc;
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.prodFirstRow {
+    color: #111;
+    float: left;
+    font-size: 14px;
+    line-height: 12px;
+    margin-bottom: 2px;
+    width: 100%;
+}
+
+.prodSecondRow {
+    color: #444;
+    float: left;
+    font-size: 13px;
+    font-weight: lighter;
+    letter-spacing: 0.15px;
+    line-height: 14px;
+    margin-bottom: 5px;
+    margin-top: 2px;
+    text-transform: lowercase;
+    width: 100%;
+}
+
+.prodName {
+    float: left;
+    font-size: 14px;
+    line-height: 12px;
+    width: 80%;
+}
+
+.prodPrice {
+    float: left;
+    width: 20%;
+    text-align:right;
+}
+
+.prodActualPrice span
+{
+    font-family: "Oswald";
+    font-size: 14px;
+    font-weight: bold !important;
+    line-height: 12px;
+}
+
+.prodDesc {
+    float: left;
+    margin-right: 2%;
+    width: 80%;
+}
+
+.Add2CartButton {   
+    float: right;
+    width: 46px;
+    text-align:right;
+    cursor:pointer;
+    opacity:0.8;
+}
+
+.Add2CartButton:hover{
+    opacity:1;
+}
+
+.prodPromo {
+    
+    float: left;
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: 2px;
+    text-transform: lowercase;
+    width: 100%;
+}
+
+.menu-item-options {
+    float: left;
+    margin-bottom: 4px;
+    width: 100%;
+}
+
+.menu-item-options select
+{
+    color: #333;
+    font-size: 12px !important;
+    font-weight: normal !important;
+    height: auto;
+    min-width: 95px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-top: 2px;
+    text-transform: lowercase;
+    width: 40%;
+}
+
+#sidebar {
+    float: left;
+    width: 100%;
+}
+
+.shopping_cart {
+    background-color: #fff;
+    border-radius: 6px !important;
+    float: left;
+    width: 100%;
+}
+
+
+
+#menunavbarMobi{
+    float:left;
+    width: 100%;
+    border-radius: 6px 6px 0 0;
+    margin-bottom: 0px;
+}
+
+#menunavbarMobi .navbar-brand {
+    
+    height: 38px;
+    line-height: 38px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    text-align: center;
+    width: 81%;
+}
+
+#menunavbarMobi .navbar-brand i.fa{
+    float: left;
+    line-height: 38px;
+    margin-right: 19%;
+}
+
+
+#menuMobiNav ul.nav li > a {
+    border-bottom: 1px solid #ccc;
+    color: #000;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    line-height: 18px;
+}
+
+#menuMobiNav ul.nav li:last-child > a {
+    border-bottom: medium none;
+}
+
+
+#menuMobiNav > ul {
+    margin-top: 0;
+}
+
+/* END MENU PAGE */
+
+
+
+.cstmsection {
+    background-color: #fff;
+    border-radius: 10px;
+    float: left;
+    padding: 10px;
+    width: 100%;
+    position:relative;
+}
+
+
+.cstmsection h3{
+    border-bottom: 1px solid;
+    float: left;
+    font-family: "Oswald",sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 6px;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 100%;
+    margin-top:0px !important;
+}
+
+.cstmsection h3 i{
+    font-size:22px;
+    line-height:18px;
+    margin-right:-22px;
+    float:left;
+}
+
+.subheaderInfo
+{
+    float: left;
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: left;
+    width: 100%;
+}
+
+.trackOrderItem {
+   
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px #7e7e7e;
+    float: left;
+    margin-bottom: 30px;
+    padding: 10px;
+    width: 100%;
+}
+
+
+
+.trackorder .content {
+    float: left;
+    width: 100%;
+}
+
+.track-order-header {
+    float: left;
+    font-size: 14px;
+    margin-top: 0px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.track-order-detail {
+    float: left;
+    font-weight: normal !important;
+    width: 100%;
+}
+
+.ordStatus {
+    float: left;
+    width: 100%;
+}
+
+.ordType {
+    
+    float: left;
+}
+
+.ordTitl {
+    
+    float: right;
+}
+
+
+.track-order-detail th {
+    background-color: #eee;
+    border-right: 1px solid #999;
+    color: #555;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 4px;
+    text-align: center;
+}
+
+.track-order-detail th:last-child{
+    border-right: medium none;
+}
+
+.track-order-detail tr td {
+    background-color: #fff;
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+    padding: 2px;
+}
+
+.track-order-detail tr td:last-child {
+    border-right: medium none;
+    text-align: center;
+}
+
+.track-order-detail tr:last-child td
+{
+    border-bottom: medium none;
+}
+
+.track-order-detail tr.footerTrackTr td
+{
+    background-color: #eee;
+    text-transform: lowercase;
+}
+
+.footerTrackTr td:first-child{
+    text-align: right;
+    padding-right: 15px;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.trackOrderItem {
+    background-color: #dedede;
+}
+
+
+
+.loginArticleContainer {
+    background-color: #fff;
+    border-radius: 6px;
+    float: left;
+    margin-right: 1%;
+    padding: 5px 10px 10px;
+    width: 49%;
+}
+
+.registerArticleContainer {
+    background-color: #fff;
+    border-radius: 6px;
+    float: left;
+    margin-left: 1%;
+    padding: 5px 10px 10px;
+    width: 49%;
+}
+
+
+
+.loginArticleContainer .page-header, .registerArticleContainer .page-header {
+    
+    font-family: "Oswald";
+    font-size: 20px;
+    line-height: 1.42857;
+    margin-bottom: 10px;
+    margin-top: 0;
+    padding-bottom: 2px;
+    text-align: center;
+}
+
+.registerArticleContainer .page-header i {
+    float: right;
+    font-size: 24px;
+    margin-left: -24px;
+    margin-top: 2px;
+}
+
+.loginArticleContainer .page-header i {
+    float: left;
+    font-size: 24px;
+    margin-right: -24px;
+    margin-top: 2px;
+}
+
+.pregInfo{
+    float: left;
+    font-size: 14px;
+    font-weight: lighter;
+    letter-spacing: 0.35px;
+    line-height: 16px;
+    margin-bottom: 5px;
+    text-align: left;
+    width: 100%;
+}
+
+
+.loginArticleContainer > div > p {
+    float: left;
+    font-size: 14px;
+    font-weight: lighter;
+    letter-spacing: 0.35px;
+    line-height: 14px;
+    margin-bottom: 5px;
+    text-align: left;
+    width: 100%;
+}
+
+.loginArticleContainer .form-group {
+    float: left;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+.lgnEmail, .lgnPwd {
+    float: left;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.lgnEmail input, .lgnPwd input{
+    float: right;
+    width: 70%;
+}
+
+.lgnEmail > label, .lgnPwd > label {
+    float: left;
+    margin-top: 4px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.pwdForgot {
+    color: #777 !important;
+    float: left;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: right;
+    width: 100%;
+}
+
+.pwdForgot > a {
+    color: #777;
+}
+
+.lgnBtn {
+    float: left;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    width: 100%;
+    text-align:center;
+}
+
+.actualLgnBtn {
+    
+    border-radius: 5px;
+    color: #eee;
+    font-size: 16px;
+    line-height: 16px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    text-align: center;
+    width: 80%;
+    cursor:pointer;
+}
+
+.pwdForgot a:hover{
+    cursor:pointer;
+}
+
+.regAccountFields
+{
+    float:left;
+    width:100%;
+}
+
+.regRow {
+    float: left;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.loginArticleContainer label, .registerArticleContainer label{
+    font-weight:normal !important;
+}
+
+.regLeft {
+    float: left;
+    text-align: left;
+    width: 30%;
+    margin-top:6px;
+}
+
+.regRight {
+    float: right;
+    width: 70%;
+}
+
+.regRowRegister {
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.registerBtnActual {
+
+    border-radius: 5px;
+    
+    font-size: 16px;
+    line-height: 16px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    text-align: center;
+    width: 80%;
+    cursor:pointer;
+}
+
+.cstmpg{
+    
+     float: left;
+    margin-left: 0;
+    margin-top: 20px;
+    text-align: left;
+    width: 100%;
+}
+
+.cstmpg img {
+
+    height: 116px;
+    width: 114px; 
+    float: left; 
+    margin-top: 30px; 
+    margin-right: 30px;
+}
+
+.secondPasRecov{
+    float: left;
+    text-align:left;
+    margin-top: 30px;
+}
+
+.emailRecov {
+    float: left;
+    line-height: 30px;
+    text-align: center;
+}
+
+.inputemRecov {
+    float: left;
+    
+}
+
+.submitRecov {
+    float: left;
+
+   
+}
+
+.submitRecov input {
+    cursor: pointer;
+    background-image: none;   
+    margin: 0 auto;
+    width: 100% !important;
+}
+
+.onlineTxt {
+   
+    font-size: 16px;
+    line-height: 12px;
+}
+
+
+.leftSideCt > img {
+    border: 1px solid #aaa;
+    border-radius: 6px;
+    float: left;
+    width: 100%;
+}
+
+.contactInfoCt > p {
+    
+    margin-bottom: 3px;
+}
+
+.leftSideCt iframe {
+    border: 1px solid #aaa !important;
+    border-radius: 10px !important;
+    width: 100% !important;
+}
+
+.reservImgs{
+    text-align: center;
+}
+
+.reservSuccessActual{
+    float: left;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.profile.cstmsection article:last-child {
+    margin-top: 10px;
+}
+
+
+.cstmsection.dealBasket
+{
+     background-color: #fff;
+    border-radius: 6px;
+    float: right;
+
+}
+
+.dealsSection .right-sidebar {
+    float: left;
+    width: 100%;
+}
+
+.deals-details {
+    float: left;
+    width: 100%;
+}
+
+.deals-details > ul {
+    list-style: outside none none;
+    padding-left: 0;
+    text-align: left;
+}
+
+.deals-details li h3 {
+    border-bottom: medium none;
+    float: left;
+    font-size: 16px;
+    margin-bottom: 0;
+    text-align: left;
+    width: 80%;
+}
+
+.deals-details li {
+    background-color: #eee;
+    border-radius: 6px;
+    box-shadow: 1px 1px 3px #999;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px 5px 10px;
+    width: 100%;
+}
+
+.deals-details-item-col1 {
+    float: left;
+    width: 100%;
+}
+
+.deals-details-item-col1 .deals-details-price {
+    color: #000;
+    float: left;
+    font-weight: bold;
+    padding-right: 10px;
+    text-align: right;
+    width: 20%;
+}
+
+.deals-details-item-col2 {
+    float: left;
+    width: 100%;
+}
+
+.deals-details-item-add-to-cart {
+    float: right;
+    padding-right: 10px;
+    text-align: right;
+    width: 20%;
+}
+
+.menu-item-remarks {
+    float: left;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    width: 80%;
+    margin-bottom:0px;
+}
+
+.deals-details-promotion {
+    color: #111;
+    float: left;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-shadow: 1px 1px 1px #aaa;
+    width: 80%;
+}
+
+.menu-item-remarks > label
+{
+    color: #111;
+    float: left;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-shadow: 1px 1px 1px #aaa;
+    width: 100%;
+}
+
+.customPopup .dealspop .TitlebarLeft {
+    font-size: 16px;
+}
+
+.mealOptP{
+    font-size: 12px;
+    margin: 5px 10px 10px;
+    text-align: center;
+}
+
+.dealsDropDown select {
+    float: left;
+    margin-bottom: 5px;
+    padding: 4px;
+    width: 100%;
+}
+
+.dealselection {
+
+    float: left;
+
+    margin-top: 5px;
+
+    width: 100%;
+}
+
+.dealselection > div:last-child {
+      
+    margin-bottom: 5px;   
+    padding-bottom: 10px;
+    
+}
+
+#div_toppings {
+    float: left;
+    width: 100%;
+}
+
+#div_deal_name {
+    float: left;
+    text-align: center;
+    width: 50%;
+}
+
+#menu_extra_header {
+    float: left;
+    margin-top: 5px;
+    padding-top: 5px;
+    text-align: center;
+    width:100%
+}
+
+#div_toppings > table td label {
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.dealGrandName {
+    color: #333 !important;
+    font-weight: lighter !important;
+    padding-left: 35px !important;
+    text-align: left !important;
+}
+
+#tbl_customer_address {
+    margin-top: 20px;
+}
+
+#tbl_customer_address tr {
+    border-bottom: 6px solid #fff;
+}
+
+#tbl_customer_address input {
+    padding: 6px;
+}
+
+#slider1_container img{
+    border-radius: 6px;
+}
+
+.isItem {
+    display: none;
+}
+
+.isItemSI .dealGrandName {
+    padding-left: 15px !important;
+}
+
+.isItemSI .dealGrandPrice {
+    border-left: 1px none transparent;
+}
+
+.isDeal .dealThreeCols {
+   
+    font-weight: lighter;
+    padding-left: 15px;
+    text-align: left;
+}
+
+.selectBillingAddr{
+    display: none;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#orderselection {
+
+    background: url("imgs/popupbg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0px !important;
+    width: 100%;
+    z-index: 1001;
+    display:none;
+}
+
+
+#orderselection .contentpop {
+    background-color: #fff;
+    border-radius: 10px;
+    float: left;
+    padding: 10px !important;
+
+}
+
+
+ .poporderDelivery > p {
+   /* font-size: 20px;
+    color:#4f1764;
+    text-align:center;*/
+}
+
+
+
+.contentpop h3 {
+    float: left;
+    width: 100%;
+    margin-top: 0px;
+    text-align: center;
+    font-family: "Oswald";
+    font-size: 20px;
+    font-weight: normal;
+    padding-bottom: 5px;
+    display: none;
+}
+
+.mobiNavLinks {
+    float: right;
+}
+
+.mobiNavLinks .navbar-toggle
+{
+    margin-top: 2px;
+    margin-right: 5px;
+}
+
+#mobinav_collapse ul li > a i {
+    float: left;
+    margin-right: 5px;
+    margin-top: 3px;
+}
+
+.shopOpenClosed {
+    float: left;
+}
+
+
+.basketMobi {
+    border-radius: 3px;
+    float: right;
+    font-size: 20px;
+    height: 32px;
+    line-height: 26px;
+    margin-right: 5px;
+    margin-top: 3px;
+    max-width: 140px;
+    padding-left: 4px;
+    text-align: left;
+    vertical-align: middle;
+    width: 30px;
+}
+
+.basketMobi:hover{
+    cursor: pointer;
+}
+
+
+#ctl00_MainContent_btnUpdateInformation:hover, #ctl00_MainContent_btnSaveChangePassword:hover {
+    cursor:pointer;
+}
+
+
+.poporderDelivery > a:hover{
+    cursor:pointer;
+}
+
+#opt_collection_order:hover{
+    cursor:pointer;
+}
+
+
+.fbld > input {
+    border: 1px solid #aaa;    
+    box-shadow: 2px 1px 2px #bbb;
+}
+
+#selectPeople {
+    border: 1px solid #aaa;
+}
+
+
+.customPopup .popup-body .checkbox > label {
+    color: #333;
+}
+
+
+.navliColor{
+    background-color: transparent;
+}

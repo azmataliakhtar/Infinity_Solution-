@@ -1,0 +1,44 @@
+.MenuContainer {
+	width: 100%;
+	height: auto;
+	margin-top: 0px;
+}
+
+.solidblockmenu{
+	/*width: 90%;*/
+	/*height: 41px;*/
+	/*margin: 0 auto;*/
+	margin-right: 10px;
+	margin-top: 0px;
+}
+
+.solidblockmenu ul{
+    float: right;
+    display: block;
+}
+.solidblockmenu li{
+	display: inline-block;
+}
+
+.solidblockmenu li a{
+	font-size: 13px;
+	color: white;
+	text-decoration: none;
+	padding: 10px 16px;
+	background-color: #bf1a2b;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+.solidblockmenu a:hover {
+	color: white;
+	background-color: green;
+}
+
+.solidblockmenu li a:visited{
+	color: white;
+}
+
+.solidblockmenu li a:active {
+	top: 1;
+}

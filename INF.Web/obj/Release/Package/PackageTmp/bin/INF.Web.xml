@@ -1,0 +1,5693 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+INF.Web
+</name>
+</assembly>
+<members>
+<member name="F:INF.Web.WaitingOrderConfirmation.UpdateTimer">
+	<summary>
+UpdateTimer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.WaitingOrderConfirmation.TimedPanel">
+	<summary>
+TimedPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.WaitingOrderConfirmation.UpdateProgressPlaceHolder">
+	<summary>
+UpdateProgressPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.WaitingOrderConfirmation.MessagePlaceHolder">
+	<summary>
+MessagePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.WaitingOrderConfirmation.ltrDeliveryTime">
+	<summary>
+ltrDeliveryTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.WaitingOrderConfirmation.ErrorMessagePlaceHolder">
+	<summary>
+ErrorMessagePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.WaitingOrderConfirmation.MessageFromChef">
+	<summary>
+MessageFromChef control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerOrders.smAdmin">
+	<summary>
+smAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerOrders.ltrCustomer">
+	<summary>
+ltrCustomer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerOrders.GoBack">
+	<summary>
+GoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerOrders.TimePeriodOptions">
+	<summary>
+TimePeriodOptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerOrders.upCustomerOrders">
+	<summary>
+upCustomerOrders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerOrders.ltrNumberOfOrders">
+	<summary>
+ltrNumberOfOrders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerOrders.OrdersRepeater">
+	<summary>
+OrdersRepeater control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportingMaster.TitlePlaceHolder">
+	<summary>
+TitlePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportingMaster.HeadPlaceHolder">
+	<summary>
+HeadPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportingMaster.phReportinMenuItems">
+	<summary>
+phReportinMenuItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportingMaster.ContentPlaceHolder">
+	<summary>
+ContentPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.smReporting">
+	<summary>
+smReporting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.ServicesChargesUpdatePanel">
+	<summary>
+ServicesChargesUpdatePanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.ServiceNameTextBox">
+	<summary>
+ServiceNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.ServiceChargeTextBox">
+	<summary>
+ServiceChargeTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.chkChargeOnOrder">
+	<summary>
+chkChargeOnOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.ServiceEnabledCheckBox">
+	<summary>
+ServiceEnabledCheckBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.SaveServiceChargeButton">
+	<summary>
+SaveServiceChargeButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.ServicesChargeDataGrid">
+	<summary>
+ServicesChargeDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.ReportSettings.SaveSettingsButton">
+	<summary>
+SaveSettingsButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SalesReport.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SalesReport.StartDateOnTextBox">
+	<summary>
+StartDateOnTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SalesReport.EndDateOnTextBox">
+	<summary>
+EndDateOnTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SalesReport.ViewReport">
+	<summary>
+ViewReport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SalesReport.SalesReportViewer">
+	<summary>
+SalesReportViewer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SalesReport.proxy">
+	<summary>
+proxy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCart.lblShopCartHeader">
+	<summary>
+lblShopCartHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCart.mvShoppingCart">
+	<summary>
+mvShoppingCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCart.vEmptyCart">
+	<summary>
+vEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCart.vNonEmptyCart">
+	<summary>
+vNonEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCart.rptCartItems">
+	<summary>
+rptCartItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.lblShopCartHeader">
+	<summary>
+lblShopCartHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.mvShoppingCart">
+	<summary>
+mvShoppingCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.vEmptyCart">
+	<summary>
+vEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.vNonEmptyCart">
+	<summary>
+vNonEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.phMessageBox">
+	<summary>
+phMessageBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.rptCartItems">
+	<summary>
+rptCartItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.phCheckOutButton">
+	<summary>
+phCheckOutButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCart.TotalPrice">
+	<summary>
+TotalPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.MenuCategoryRepeaterMobi">
+	<summary>
+MenuCategoryRepeaterMobi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.MenuCategoryRepeater">
+	<summary>
+MenuCategoryRepeater control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.rptMenus">
+	<summary>
+rptMenus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.phShoppingCart">
+	<summary>
+phShoppingCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.imgClosedSign">
+	<summary>
+imgClosedSign control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.InProgressModalPopupExtender">
+	<summary>
+InProgressModalPopupExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.UpdateProgress">
+	<summary>
+UpdateProgress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.PopupDressingLink">
+	<summary>
+PopupDressingLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.DressingModalPopupExtender">
+	<summary>
+DressingModalPopupExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.DressingPanel">
+	<summary>
+DressingPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.DLDressing">
+	<summary>
+DLDressing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.SDSDressing">
+	<summary>
+SDSDressing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.ButtonDeleleOkay">
+	<summary>
+ButtonDeleleOkay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.lnkExtraTopping">
+	<summary>
+lnkExtraTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.ModalPopupExtenderTopping">
+	<summary>
+ModalPopupExtenderTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.pnlTopping">
+	<summary>
+pnlTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.chkYesTopping">
+	<summary>
+chkYesTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.tbeYesTopping">
+	<summary>
+tbeYesTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.MutuallyExclusiveCheckBoxExtender1">
+	<summary>
+MutuallyExclusiveCheckBoxExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.chkNoTopping">
+	<summary>
+chkNoTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.tbeNoTopping">
+	<summary>
+tbeNoTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.MutuallyExclusiveCheckBoxExtender2">
+	<summary>
+MutuallyExclusiveCheckBoxExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.chkLeftTopping">
+	<summary>
+chkLeftTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.tbeLeftTopping">
+	<summary>
+tbeLeftTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.MutuallyExclusiveCheckBoxExtender3">
+	<summary>
+MutuallyExclusiveCheckBoxExtender3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.chkRightTopping">
+	<summary>
+chkRightTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.tbeRightTopping">
+	<summary>
+tbeRightTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.MutuallyExclusiveCheckBoxExtender4">
+	<summary>
+MutuallyExclusiveCheckBoxExtender4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.dlToppings">
+	<summary>
+dlToppings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.btnOKTopping">
+	<summary>
+btnOKTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.btnCancelTopping">
+	<summary>
+btnCancelTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Menu.phOptionPopups">
+	<summary>
+phOptionPopups control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Testimonials.TestimonialsContent">
+	<summary>
+TestimonialsContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.MessageBox">
+	<summary>
+MessageBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.Messages">
+	<summary>
+Messages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.UserNameTextBox">
+	<summary>
+UserNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.EmailTextBox">
+	<summary>
+EmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.RFVEmail">
+	<summary>
+RFVEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.ConfirmEmailTextBox">
+	<summary>
+ConfirmEmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.PasswordTextBox">
+	<summary>
+PasswordTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.ConfirmPasswordTextBox">
+	<summary>
+ConfirmPasswordTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.RequiredFieldValidator7">
+	<summary>
+RequiredFieldValidator7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.RequiredFieldValidator8">
+	<summary>
+RequiredFieldValidator8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.UserRolesDropDownList">
+	<summary>
+UserRolesDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.SaveButton">
+	<summary>
+SaveButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CreateUser.CancelButton">
+	<summary>
+CancelButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.GeneralSettingsUserControl.phGeneralSettingsMenuItems">
+	<summary>
+phGeneralSettingsMenuItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.btnNewPostcode">
+	<summary>
+btnNewPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.upPostcodeGrid">
+	<summary>
+upPostcodeGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.gvPostcode">
+	<summary>
+gvPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.upPostcodeView">
+	<summary>
+upPostcodeView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.ltrMenuItemEditorHeaderText">
+	<summary>
+ltrMenuItemEditorHeaderText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.hdnPostcodeID">
+	<summary>
+hdnPostcodeID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.phMessage">
+	<summary>
+phMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.ltrMessage">
+	<summary>
+ltrMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.txtPostcode">
+	<summary>
+txtPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.PostCodeRequired">
+	<summary>
+PostCodeRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.Price">
+	<summary>
+Price control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.MinimumOrderValue">
+	<summary>
+MinimumOrderValue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.AllowDelivery">
+	<summary>
+AllowDelivery control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Postcode.btnSaveChanges">
+	<summary>
+btnSaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UcReportingMenuItems.phReportinMenuItems">
+	<summary>
+phReportinMenuItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.MessageBox">
+	<summary>
+MessageBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.Messages">
+	<summary>
+Messages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.UserNameTextBox">
+	<summary>
+UserNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.EmailTextBox">
+	<summary>
+EmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.IsActivedTextBox">
+	<summary>
+IsActivedTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.UserRoleTextBox">
+	<summary>
+UserRoleTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.ChangePasswordButton">
+	<summary>
+ChangePasswordButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.BlockAndUnBlockButton">
+	<summary>
+BlockAndUnBlockButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserDetails.CancelButton">
+	<summary>
+CancelButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCartWithDeals.lblShopCartHeader">
+	<summary>
+lblShopCartHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCartWithDeals.mvShoppingCart">
+	<summary>
+mvShoppingCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCartWithDeals.vEmptyCart">
+	<summary>
+vEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCartWithDeals.vNonEmptyCart">
+	<summary>
+vNonEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.ShoppingCartWithDeals.rptCartItems">
+	<summary>
+rptCartItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PaymentDone.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PaymentDone.lblTransactionId">
+	<summary>
+lblTransactionId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintReporting.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintReporting.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintReporting.BasicMonthlyReportViewer">
+	<summary>
+BasicMonthlyReportViewer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintReporting.proxy">
+	<summary>
+proxy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.rptDealsDetails">
+	<summary>
+rptDealsDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.phShoppingCart">
+	<summary>
+phShoppingCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.imgClosedSign">
+	<summary>
+imgClosedSign control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.InProgressModalPopupExtender">
+	<summary>
+InProgressModalPopupExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.UpdateProgress">
+	<summary>
+UpdateProgress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.btnShowDealOptions">
+	<summary>
+btnShowDealOptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.mpeDealOptions">
+	<summary>
+mpeDealOptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.pnlDealOptions">
+	<summary>
+pnlDealOptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.ltrDealName">
+	<summary>
+ltrDealName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.pnlDynamicContent">
+	<summary>
+pnlDynamicContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.hdnModalPopupName">
+	<summary>
+hdnModalPopupName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.btnDealClose">
+	<summary>
+btnDealClose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.hdnDealSelected">
+	<summary>
+hdnDealSelected control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.hdnDealOptionsSelected">
+	<summary>
+hdnDealOptionsSelected control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.hdnShowToppingModal">
+	<summary>
+hdnShowToppingModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.mpeToppingModal">
+	<summary>
+mpeToppingModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.pnlTopping">
+	<summary>
+pnlTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.pnlDynamicTopping">
+	<summary>
+pnlDynamicTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.hdnSelectedOptionId">
+	<summary>
+hdnSelectedOptionId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.hdnNextMenuItemWithExtra">
+	<summary>
+hdnNextMenuItemWithExtra control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.hdnSelectedToppingIds">
+	<summary>
+hdnSelectedToppingIds control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Deals.btnToppingClose">
+	<summary>
+btnToppingClose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.LogOut.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.scriptManager1">
+	<summary>
+scriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.UserName">
+	<summary>
+UserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.UserNameRequired">
+	<summary>
+UserNameRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.Password">
+	<summary>
+Password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.PasswordRequired">
+	<summary>
+PasswordRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.LoginButton">
+	<summary>
+LoginButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Login.ErrorsLabel">
+	<summary>
+ErrorsLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PasswordRecovery.mltFeedback">
+	<summary>
+mltFeedback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PasswordRecovery.viewFeedbackSent">
+	<summary>
+viewFeedbackSent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PasswordRecovery.viewFeedback">
+	<summary>
+viewFeedback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PasswordRecovery.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PasswordRecovery.EmailRequired">
+	<summary>
+EmailRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PasswordRecovery.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.ltrCustomer">
+	<summary>
+ltrCustomer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.hdnCustomerId">
+	<summary>
+hdnCustomerId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.hdnAddressId">
+	<summary>
+hdnAddressId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.PostcodeTextBox">
+	<summary>
+PostcodeTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.CityTextBox">
+	<summary>
+CityTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.AddressTextBox">
+	<summary>
+AddressTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.AddressNoteTextBox">
+	<summary>
+AddressNoteTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.SaveButton">
+	<summary>
+SaveButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerAddressEdit.CancelButton">
+	<summary>
+CancelButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MainNavigation.phMainNavigation">
+	<summary>
+phMainNavigation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderWaitProcess.UpdateTimer">
+	<summary>
+UpdateTimer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderWaitProcess.TimedPanel">
+	<summary>
+TimedPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderWaitProcess.UpdateProgressPlaceHolder">
+	<summary>
+UpdateProgressPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderWaitProcess.MessagePlaceHolder">
+	<summary>
+MessagePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderWaitProcess.ltrDeliveryTime">
+	<summary>
+ltrDeliveryTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderWaitProcess.ErrorMessagePlaceHolder">
+	<summary>
+ErrorMessagePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderWaitProcess.MessageFromChef">
+	<summary>
+MessageFromChef control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.smAdmin">
+	<summary>
+smAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrCustomer">
+	<summary>
+ltrCustomer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.GoBack">
+	<summary>
+GoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrCustomerInfo">
+	<summary>
+ltrCustomerInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.upCustomerOrders">
+	<summary>
+upCustomerOrders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrOrderAt">
+	<summary>
+ltrOrderAt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrOrderStatus">
+	<summary>
+ltrOrderStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrOrderType">
+	<summary>
+ltrOrderType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrPaymentStatus">
+	<summary>
+ltrPaymentStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.OrderDetailsRepeater">
+	<summary>
+OrderDetailsRepeater control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrSubTotal">
+	<summary>
+ltrSubTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrOnlineDiscount">
+	<summary>
+ltrOnlineDiscount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrDeliveryCharges">
+	<summary>
+ltrDeliveryCharges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderView.ltrTotalAmount">
+	<summary>
+ltrTotalAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.ContactUsViewLink">
+	<summary>
+ContactUsViewLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.AboutUsViewLink">
+	<summary>
+AboutUsViewLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.StaticPagesTitle">
+	<summary>
+StaticPagesTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.ErrorMessages">
+	<summary>
+ErrorMessages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.StaticPagesMultiView">
+	<summary>
+StaticPagesMultiView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.ContactUsView">
+	<summary>
+ContactUsView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.ContactUsID">
+	<summary>
+ContactUsID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.MapImage">
+	<summary>
+MapImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.MapImageFileUpload">
+	<summary>
+MapImageFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.MapImageFileUploadButton">
+	<summary>
+MapImageFileUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.ContactInfo">
+	<summary>
+ContactInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.AboutUsView">
+	<summary>
+AboutUsView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.AboutUsID">
+	<summary>
+AboutUsID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.AboutUsEditor">
+	<summary>
+AboutUsEditor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.StaticPages.SaveChanges">
+	<summary>
+SaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Public.default.Header.pnlOrderTypeAndPostCode">
+	<summary>
+pnlOrderTypeAndPostCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Public.default.Header.ltrOrderType">
+	<summary>
+ltrOrderType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Public.default.Header.ltrPostcode">
+	<summary>
+ltrPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Public.default.Header.LinkButton4">
+	<summary>
+LinkButton4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Public.default.Header.LinkButton1">
+	<summary>
+LinkButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Public.default.Header.lnkLogout">
+	<summary>
+lnkLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.MessageBox">
+	<summary>
+MessageBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.Messages">
+	<summary>
+Messages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.UserNameTextBox">
+	<summary>
+UserNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.EmailTextBox">
+	<summary>
+EmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.IsActivedTextBox">
+	<summary>
+IsActivedTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.UserRoleTextBox">
+	<summary>
+UserRoleTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.ChangePasswordButton">
+	<summary>
+ChangePasswordButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UserEdit.CancelButton">
+	<summary>
+CancelButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:INF.Web.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:INF.Web.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:INF.Web.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:INF.Web.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:INF.Web.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:INF.Web.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:INF.Web.OrderConfirm.rptCartItems">
+	<summary>
+rptCartItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrBillingName">
+	<summary>
+ltrBillingName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrBillingAddress">
+	<summary>
+ltrBillingAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrBillingPhoneNo">
+	<summary>
+ltrBillingPhoneNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrBillingEmail">
+	<summary>
+ltrBillingEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.billingNamePlaceID">
+	<summary>
+billingNamePlaceID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrDeliveryName">
+	<summary>
+ltrDeliveryName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrDeliveryAddress">
+	<summary>
+ltrDeliveryAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrDeliveryPhoneNo">
+	<summary>
+ltrDeliveryPhoneNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrDeliveryEmail">
+	<summary>
+ltrDeliveryEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.ltrDeliverTiming">
+	<summary>
+ltrDeliverTiming control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirm.phSubmitPayment">
+	<summary>
+phSubmitPayment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirmation.frmSagePay">
+	<summary>
+frmSagePay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirmation.VPSProtocol">
+	<summary>
+VPSProtocol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirmation.TxType">
+	<summary>
+TxType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirmation.Vendor">
+	<summary>
+Vendor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderConfirmation.Crypt">
+	<summary>
+Crypt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PaymentError.ltrDetailErrors">
+	<summary>
+ltrDetailErrors control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_BasicReport.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_BasicReport.StartDateOnTextBox">
+	<summary>
+StartDateOnTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_BasicReport.EndDateOnTextBox">
+	<summary>
+EndDateOnTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_BasicReport.ViewReport">
+	<summary>
+ViewReport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_BasicReport.BasicMonthlyReportViewer">
+	<summary>
+BasicMonthlyReportViewer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_BasicReport.proxy">
+	<summary>
+proxy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.smAdmin">
+	<summary>
+smAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrCustomer">
+	<summary>
+ltrCustomer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.GoBack">
+	<summary>
+GoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.upCustomerOrders">
+	<summary>
+upCustomerOrders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrOrderAt">
+	<summary>
+ltrOrderAt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrOrderStatus">
+	<summary>
+ltrOrderStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrOrderType">
+	<summary>
+ltrOrderType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrPaymentStatus">
+	<summary>
+ltrPaymentStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.OrderDetailsRepeater">
+	<summary>
+OrderDetailsRepeater control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrSubTotal">
+	<summary>
+ltrSubTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrOnlineDiscount">
+	<summary>
+ltrOnlineDiscount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrDeliveryCharges">
+	<summary>
+ltrDeliveryCharges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderDetails.ltrTotalAmount">
+	<summary>
+ltrTotalAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.UcSidebarNavigation.phSidebarNavItems">
+	<summary>
+phSidebarNavItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.scriptManager1">
+	<summary>
+scriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.CreateUserButton">
+	<summary>
+CreateUserButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.upUsersGrid">
+	<summary>
+upUsersGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.MessageBox">
+	<summary>
+MessageBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.Messages">
+	<summary>
+Messages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.ltrNumberOfUsers">
+	<summary>
+ltrNumberOfUsers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.UsersGridView">
+	<summary>
+UsersGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.upAddNewUser">
+	<summary>
+upAddNewUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.UserNameTextBox">
+	<summary>
+UserNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.EmailTextBox">
+	<summary>
+EmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RFVEmail">
+	<summary>
+RFVEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.ConfirmEmailTextBox">
+	<summary>
+ConfirmEmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.PasswordTextBox">
+	<summary>
+PasswordTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.ConfirmPasswordTextBox">
+	<summary>
+ConfirmPasswordTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator7">
+	<summary>
+RequiredFieldValidator7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator8">
+	<summary>
+RequiredFieldValidator8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.UserRolesDropDownList">
+	<summary>
+UserRolesDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.SaveButton">
+	<summary>
+SaveButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.upEditUser">
+	<summary>
+upEditUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtEditUserName">
+	<summary>
+txtEditUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtEditEmail">
+	<summary>
+txtEditEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtEditLastName">
+	<summary>
+txtEditLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtEditFirstName">
+	<summary>
+txtEditFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.ddlEditUserRole">
+	<summary>
+ddlEditUserRole control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.chkActivated">
+	<summary>
+chkActivated control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.SaveEditButton">
+	<summary>
+SaveEditButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.upChangePassword">
+	<summary>
+upChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtChangePassUserName">
+	<summary>
+txtChangePassUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtChangePassOldPassword">
+	<summary>
+txtChangePassOldPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator13">
+	<summary>
+RequiredFieldValidator13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtChangePassNewPassword">
+	<summary>
+txtChangePassNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator14">
+	<summary>
+RequiredFieldValidator14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.txtChangePassNewPasswordConfirm">
+	<summary>
+txtChangePassNewPasswordConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.RequiredFieldValidator15">
+	<summary>
+RequiredFieldValidator15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.CompareValidator1">
+	<summary>
+CompareValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Users.btnSaveChangePassword">
+	<summary>
+btnSaveChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.vsInformation">
+	<summary>
+vsInformation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.rfvFirstName">
+	<summary>
+rfvFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtTelephone">
+	<summary>
+txtTelephone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtMobile">
+	<summary>
+txtMobile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtEmailAddress">
+	<summary>
+txtEmailAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.btnUpdateInformation">
+	<summary>
+btnUpdateInformation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtOldPassword">
+	<summary>
+txtOldPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtNewPassword">
+	<summary>
+txtNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.cvPasswords">
+	<summary>
+cvPasswords control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.btnSaveChangePassword">
+	<summary>
+btnSaveChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.ValidationSummary2">
+	<summary>
+ValidationSummary2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Profile.DlAddresses">
+	<summary>
+DlAddresses control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.smAdmin">
+	<summary>
+smAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.lblCustomerName">
+	<summary>
+lblCustomerName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.GoBack">
+	<summary>
+GoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.MessageLabel">
+	<summary>
+MessageLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.EmailTextBox">
+	<summary>
+EmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.RFVEmail">
+	<summary>
+RFVEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.TelephoneTextBox">
+	<summary>
+TelephoneTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.MobileTextBox">
+	<summary>
+MobileTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.LastNameTextBox">
+	<summary>
+LastNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.FirstNameTextBox">
+	<summary>
+FirstNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.MemberSinceTextBox">
+	<summary>
+MemberSinceTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.IsActiveTextBox">
+	<summary>
+IsActiveTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.EditButton">
+	<summary>
+EditButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.SaveButton">
+	<summary>
+SaveButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.BlockCustomerButton">
+	<summary>
+BlockCustomerButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.UnBlockCustomerButton">
+	<summary>
+UnBlockCustomerButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CustomerDetails.CustomerAddressDataGrid">
+	<summary>
+CustomerAddressDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.pnlUserLoggIn">
+	<summary>
+pnlUserLoggIn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.LoginValidationSummary">
+	<summary>
+LoginValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.UserNameLabel">
+	<summary>
+UserNameLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.UserName">
+	<summary>
+UserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.UserNameRequired">
+	<summary>
+UserNameRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.PasswordLabel">
+	<summary>
+PasswordLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.Password">
+	<summary>
+Password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.PasswordRequired">
+	<summary>
+PasswordRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.LoginButton">
+	<summary>
+LoginButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.pnlRegisterUser">
+	<summary>
+pnlRegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.ErrorMessages">
+	<summary>
+ErrorMessages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.NewUserValidationSummary">
+	<summary>
+NewUserValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtPhoneNumber">
+	<summary>
+txtPhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.rfvPhoneNumber">
+	<summary>
+rfvPhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtMobilePhone">
+	<summary>
+txtMobilePhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.rfvFirstName">
+	<summary>
+rfvFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.rfvLastName">
+	<summary>
+rfvLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtAddressLine1">
+	<summary>
+txtAddressLine1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.rfvAddressLine1">
+	<summary>
+rfvAddressLine1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtAddressLine2">
+	<summary>
+txtAddressLine2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtCity">
+	<summary>
+txtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.rfvCity">
+	<summary>
+rfvCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtPostcode">
+	<summary>
+txtPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.rfvPostcode">
+	<summary>
+rfvPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtEmailAddress">
+	<summary>
+txtEmailAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.EmailTextBoxRequired">
+	<summary>
+EmailTextBoxRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.PasswordTextBoxRequired">
+	<summary>
+PasswordTextBoxRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.txtReTypePassword">
+	<summary>
+txtReTypePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.CreateNewUserButton">
+	<summary>
+CreateNewUserButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Login.lblErrorMessage">
+	<summary>
+lblErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MasterPage.TitlePlaceHolder">
+	<summary>
+TitlePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MasterPage.HeadPlaceHolder">
+	<summary>
+HeadPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MasterPage.mainForm">
+	<summary>
+mainForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MasterPage.phMainNavigation">
+	<summary>
+phMainNavigation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MasterPage.PageContent">
+	<summary>
+PageContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.btnNewMenuItem">
+	<summary>
+btnNewMenuItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.btnBack">
+	<summary>
+btnBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.upMenuItemGrid">
+	<summary>
+upMenuItemGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.gvMenuItem">
+	<summary>
+gvMenuItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.upMenuItemView">
+	<summary>
+upMenuItemView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.ltrMenuItemEditorHeaderText">
+	<summary>
+ltrMenuItemEditorHeaderText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.hdnMenuItemID">
+	<summary>
+hdnMenuItemID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtCategoryName">
+	<summary>
+txtCategoryName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.hdnCategoryID">
+	<summary>
+hdnCategoryID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.ddlCategories">
+	<summary>
+ddlCategories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtMenuItemName">
+	<summary>
+txtMenuItemName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.MenuItemNameRequired">
+	<summary>
+MenuItemNameRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtItemPosition">
+	<summary>
+txtItemPosition control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtPreparationTime">
+	<summary>
+txtPreparationTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.chkActive">
+	<summary>
+chkActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.chkBaseSelection">
+	<summary>
+chkBaseSelection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.radOneSize">
+	<summary>
+radOneSize control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.radMultipleSize">
+	<summary>
+radMultipleSize control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.chkLinkDressingOrTopping">
+	<summary>
+chkLinkDressingOrTopping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.ddlMenuLink1">
+	<summary>
+ddlMenuLink1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.chkLinkMenu">
+	<summary>
+chkLinkMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.ddlMenuLink2">
+	<summary>
+ddlMenuLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtDeliveryPrice">
+	<summary>
+txtDeliveryPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtCollectionPrice">
+	<summary>
+txtCollectionPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtToppingPrice1">
+	<summary>
+txtToppingPrice1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtToppingPrice2">
+	<summary>
+txtToppingPrice2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.txtToppingPrice3">
+	<summary>
+txtToppingPrice3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.PromotionText">
+	<summary>
+PromotionText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.Remarks">
+	<summary>
+Remarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.MenuItem.btnSaveChanges">
+	<summary>
+btnSaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Admin.TitlePlaceHolder">
+	<summary>
+TitlePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Admin.HeadPlaceHolder">
+	<summary>
+HeadPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Admin.SettingsPlaceHolder">
+	<summary>
+SettingsPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Admin.SidebarPlaceHolder">
+	<summary>
+SidebarPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Admin.ContentPlaceHolder">
+	<summary>
+ContentPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.SettingsScriptManager">
+	<summary>
+SettingsScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.ValidationMsg">
+	<summary>
+ValidationMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.MessageLabel">
+	<summary>
+MessageLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.RestaurantID">
+	<summary>
+RestaurantID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.ShopName">
+	<summary>
+ShopName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.ShopNameRequired">
+	<summary>
+ShopNameRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.ShopNo">
+	<summary>
+ShopNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.ShopNoRequired">
+	<summary>
+ShopNoRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.PostCode">
+	<summary>
+PostCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.PostCodeRequired">
+	<summary>
+PostCodeRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.BuildingName">
+	<summary>
+BuildingName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.Street">
+	<summary>
+Street control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.City">
+	<summary>
+City control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.Telephone1">
+	<summary>
+Telephone1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.Mobile">
+	<summary>
+Mobile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.Fax">
+	<summary>
+Fax control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.Email">
+	<summary>
+Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.DeliveryCharge">
+	<summary>
+DeliveryCharge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.DeliveryChargeIsDecimal">
+	<summary>
+DeliveryChargeIsDecimal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.ServiceCharge">
+	<summary>
+ServiceCharge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.ServiceChargeIsDecimal">
+	<summary>
+ServiceChargeIsDecimal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.EnableCashPayments">
+	<summary>
+EnableCashPayments control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.EnableNochex">
+	<summary>
+EnableNochex control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.OnlineDiscountTextBox">
+	<summary>
+OnlineDiscountTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.OnlineDiscountMaskedEditExtender">
+	<summary>
+OnlineDiscountMaskedEditExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.WebsiteStatus">
+	<summary>
+WebsiteStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Settings.SaveRestautanSettings">
+	<summary>
+SaveRestautanSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.UserControls.LookUpPostcode.phPostcodeLookUp">
+	<summary>
+phPostcodeLookUp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.vmValidation">
+	<summary>
+vmValidation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.phMessages">
+	<summary>
+phMessages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.ltrMessage">
+	<summary>
+ltrMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.Validator1">
+	<summary>
+Validator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.Validator2">
+	<summary>
+Validator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Account.ForgotPassword.btnSendEmail">
+	<summary>
+btnSendEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.ValidationMsg">
+	<summary>
+ValidationMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.MessageLabel">
+	<summary>
+MessageLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.CustomerNameTextBox">
+	<summary>
+CustomerNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.EmailTextBox">
+	<summary>
+EmailTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.TelephoneTextBox">
+	<summary>
+TelephoneTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.TimePeriodOptions">
+	<summary>
+TimePeriodOptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.SearchButton">
+	<summary>
+SearchButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.ResetButton">
+	<summary>
+ResetButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.UnBlockAllCustomerButton">
+	<summary>
+UnBlockAllCustomerButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.ltrNumberOfCustomers">
+	<summary>
+ltrNumberOfCustomers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Customers.CustomerDataGrid">
+	<summary>
+CustomerDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.btnNewMenuItem">
+	<summary>
+btnNewMenuItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.btnBack">
+	<summary>
+btnBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.upSubMenuItemGrid">
+	<summary>
+upSubMenuItemGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.gvSubMenuItem">
+	<summary>
+gvSubMenuItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.upMenuItemView">
+	<summary>
+upMenuItemView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.ltrMenuItemEditorHeaderText">
+	<summary>
+ltrMenuItemEditorHeaderText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.hdnSubMenuItemId">
+	<summary>
+hdnSubMenuItemId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.phMessage">
+	<summary>
+phMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.ltrMessage">
+	<summary>
+ltrMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtMenuItem">
+	<summary>
+txtMenuItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.hdnMenuItemId">
+	<summary>
+hdnMenuItemId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtSubMenuItemName">
+	<summary>
+txtSubMenuItemName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.MenuItemNameRequired">
+	<summary>
+MenuItemNameRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtItemPosition">
+	<summary>
+txtItemPosition control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtPreparationTime">
+	<summary>
+txtPreparationTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.chkActive">
+	<summary>
+chkActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtDeliveryPrice">
+	<summary>
+txtDeliveryPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtCollectionPrice">
+	<summary>
+txtCollectionPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtToppingPrice1">
+	<summary>
+txtToppingPrice1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtToppingPrice2">
+	<summary>
+txtToppingPrice2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.txtToppingPrice3">
+	<summary>
+txtToppingPrice3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.SubMenuItem.btnSaveChanges">
+	<summary>
+btnSaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.lblShopCartHeader">
+	<summary>
+lblShopCartHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.mvShoppingCart">
+	<summary>
+mvShoppingCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.vEmptyCart">
+	<summary>
+vEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.vNonEmptyCart">
+	<summary>
+vNonEmptyCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.phMessageBox">
+	<summary>
+phMessageBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.rptCartItems">
+	<summary>
+rptCartItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.phCheckOutButton">
+	<summary>
+phCheckOutButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Ajax.SmallShoppingCartWithoutDeals.TotalPrice">
+	<summary>
+TotalPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.divOrderSummary">
+	<summary>
+divOrderSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.VoucherCodeTextBox">
+	<summary>
+VoucherCodeTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtAdditionalInstructions">
+	<summary>
+txtAdditionalInstructions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.EditOrderButton2">
+	<summary>
+EditOrderButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.divOrderDetail">
+	<summary>
+divOrderDetail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.chkDeliveryOrder">
+	<summary>
+chkDeliveryOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.tbeDeliveryOrder">
+	<summary>
+tbeDeliveryOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.chkCollectionOrder">
+	<summary>
+chkCollectionOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.tbeCollectionOrder">
+	<summary>
+tbeCollectionOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtPhoneNumber">
+	<summary>
+txtPhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtAltPhoneNumber">
+	<summary>
+txtAltPhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtFistName">
+	<summary>
+txtFistName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtEmailAddress">
+	<summary>
+txtEmailAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.cpeCustomerAddresses">
+	<summary>
+cpeCustomerAddresses control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.pnlCustomerAddresses">
+	<summary>
+pnlCustomerAddresses control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.upnlAddressList">
+	<summary>
+upnlAddressList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.dlCustomerAddress">
+	<summary>
+dlCustomerAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.btnNewAddress">
+	<summary>
+btnNewAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.pnlUpdateAddress">
+	<summary>
+pnlUpdateAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.vsCustomerAddress">
+	<summary>
+vsCustomerAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtAddressLine1">
+	<summary>
+txtAddressLine1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.rfvAddressLine">
+	<summary>
+rfvAddressLine control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtAddressLine2">
+	<summary>
+txtAddressLine2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtPostcode">
+	<summary>
+txtPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.rfvPostcode">
+	<summary>
+rfvPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.txtCity">
+	<summary>
+txtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.rfvCity">
+	<summary>
+rfvCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.lnkFake">
+	<summary>
+lnkFake control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.mpeUpdateAddress">
+	<summary>
+mpeUpdateAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.radAsSoonAsPossible">
+	<summary>
+radAsSoonAsPossible control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.radAtTime">
+	<summary>
+radAtTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.ddlAtHours">
+	<summary>
+ddlAtHours control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.ddlAtMinutes">
+	<summary>
+ddlAtMinutes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.ddlAmOrPm">
+	<summary>
+ddlAmOrPm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.chkPayByCash">
+	<summary>
+chkPayByCash control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.ToggleButtonExtender1">
+	<summary>
+ToggleButtonExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.chkPayByCard">
+	<summary>
+chkPayByCard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.lblCardCharges">
+	<summary>
+lblCardCharges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.ToggleButtonExtender2">
+	<summary>
+ToggleButtonExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.billFirstName">
+	<summary>
+billFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.billLastName">
+	<summary>
+billLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.billAddress">
+	<summary>
+billAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.billCity">
+	<summary>
+billCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.billPostode">
+	<summary>
+billPostode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.billCountry">
+	<summary>
+billCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.MutuallyExclusiveCheckBoxExtender1">
+	<summary>
+MutuallyExclusiveCheckBoxExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.MutuallyExclusiveCheckBoxExtender2">
+	<summary>
+MutuallyExclusiveCheckBoxExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.OrderReview.btnConfirmOrder2">
+	<summary>
+btnConfirmOrder2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.DashboardMaster.TitlePlaceHolder">
+	<summary>
+TitlePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.DashboardMaster.HeadPlaceHolder">
+	<summary>
+HeadPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.DashboardMaster.SettingsPlaceHolder">
+	<summary>
+SettingsPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.DashboardMaster.SidebarPlaceHolder">
+	<summary>
+SidebarPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.DashboardMaster.ContentPlaceHolder">
+	<summary>
+ContentPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ThemesScriptManager">
+	<summary>
+ThemesScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ErrorMessages">
+	<summary>
+ErrorMessages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ShowLogoAndSloganView">
+	<summary>
+ShowLogoAndSloganView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ShowNavigationImagesView">
+	<summary>
+ShowNavigationImagesView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ShowHeaderView">
+	<summary>
+ShowHeaderView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ShowFooterView">
+	<summary>
+ShowFooterView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ShowHomePageView">
+	<summary>
+ShowHomePageView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ShowMenuCategory">
+	<summary>
+ShowMenuCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ThemesMultiView">
+	<summary>
+ThemesMultiView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.LogoAndSloganView">
+	<summary>
+LogoAndSloganView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.Slogan">
+	<summary>
+Slogan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.LogoImageWidth">
+	<summary>
+LogoImageWidth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.LogoImageHeight">
+	<summary>
+LogoImageHeight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.Logo">
+	<summary>
+Logo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.LogoFileUpload">
+	<summary>
+LogoFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.LogoFileUploadButton">
+	<summary>
+LogoFileUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationImagesView">
+	<summary>
+NavigationImagesView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationImageWitdh">
+	<summary>
+NavigationImageWitdh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationImageHeight">
+	<summary>
+NavigationImageHeight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationImage">
+	<summary>
+NavigationImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationImageFileUpload">
+	<summary>
+NavigationImageFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationImageFileUploadButton">
+	<summary>
+NavigationImageFileUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationHoverImageWidth">
+	<summary>
+NavigationHoverImageWidth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationHoverImageHeight">
+	<summary>
+NavigationHoverImageHeight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationHoverImage">
+	<summary>
+NavigationHoverImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationHoverImageFileUpload">
+	<summary>
+NavigationHoverImageFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.NavigationHoverImageFileUploadButton">
+	<summary>
+NavigationHoverImageFileUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HeaderView">
+	<summary>
+HeaderView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HeaderBgImageWidth">
+	<summary>
+HeaderBgImageWidth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HeaderBgImageHeight">
+	<summary>
+HeaderBgImageHeight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HeaderBgImage">
+	<summary>
+HeaderBgImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HeaderBgImageFileUpload">
+	<summary>
+HeaderBgImageFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HeaderBgImageFileUploadButton">
+	<summary>
+HeaderBgImageFileUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.FooterView">
+	<summary>
+FooterView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.FooterbgImageWidth">
+	<summary>
+FooterbgImageWidth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.FooterbgImageHeight">
+	<summary>
+FooterbgImageHeight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.FooterbgImage">
+	<summary>
+FooterbgImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.FooterbgImageFileUpload">
+	<summary>
+FooterbgImageFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.FooterbgImageFileUploadButton">
+	<summary>
+FooterbgImageFileUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HomePageView">
+	<summary>
+HomePageView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HomePageBgImageWidth">
+	<summary>
+HomePageBgImageWidth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HomePageBgImageHeight">
+	<summary>
+HomePageBgImageHeight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HomePageBgImage">
+	<summary>
+HomePageBgImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HomePageBgImageFileUpload">
+	<summary>
+HomePageBgImageFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.HomePageBgImageFileUploadButton">
+	<summary>
+HomePageBgImageFileUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.MenuCategoryView">
+	<summary>
+MenuCategoryView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.MenuCategoryWidth">
+	<summary>
+MenuCategoryWidth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.MenuCategoryHeight">
+	<summary>
+MenuCategoryHeight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.EditOrderImage">
+	<summary>
+EditOrderImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.EditOrderImageFileUpload">
+	<summary>
+EditOrderImageFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.EditOrderImageUploadButton">
+	<summary>
+EditOrderImageUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ConfirmOrderImage">
+	<summary>
+ConfirmOrderImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ConfirmOrderFileUpload">
+	<summary>
+ConfirmOrderFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.ConfirmOrderUploadButton">
+	<summary>
+ConfirmOrderUploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.CheckOutImage">
+	<summary>
+CheckOutImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.CheckOutFileUpload">
+	<summary>
+CheckOutFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.CheckOutButton">
+	<summary>
+CheckOutButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.AddToCartImage">
+	<summary>
+AddToCartImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.AddToCartFileUpload">
+	<summary>
+AddToCartFileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.AddToCartButton">
+	<summary>
+AddToCartButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BaseColorSampleLabel">
+	<summary>
+BaseColorSampleLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BaseColorTextBox">
+	<summary>
+BaseColorTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BaseColorPopupButton">
+	<summary>
+BaseColorPopupButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BaseColorPickerExtender">
+	<summary>
+BaseColorPickerExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BackColorSampleLabel">
+	<summary>
+BackColorSampleLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BackColorTextBox">
+	<summary>
+BackColorTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BackColorPopupButton">
+	<summary>
+BackColorPopupButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.BackColorPickerExtender">
+	<summary>
+BackColorPickerExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Themes.SaveThemesSettings">
+	<summary>
+SaveThemesSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.LinkCanonical">
+	<summary>
+LinkCanonical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.GooglePlaceHolder">
+	<summary>
+GooglePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.HeadExtra">
+	<summary>
+HeadExtra control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.masterPageScriptManager">
+	<summary>
+masterPageScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.phHeader">
+	<summary>
+phHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.phFooter">
+	<summary>
+phFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.SiteMaster.ctlCheckPostCode1">
+	<summary>
+ctlCheckPostCode1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.TrackOrder.OrdersRepeater">
+	<summary>
+OrdersRepeater control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:INF.Web.AdminConstanst.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:INF.Web.AdminConstanst.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:INF.Web.AdminConstanst.AdminTitle">
+	<summary>
+  Looks up a localized string similar to ePosAnytime - Administrative Panel.
+</summary>
+</member><member name="P:INF.Web.AdminConstanst.ChangesHasBeenSaved">
+	<summary>
+  Looks up a localized string similar to The changes have been saved successfully!.
+</summary>
+</member><member name="P:INF.Web.AdminConstanst.CouldNotSaveTheChanges">
+	<summary>
+  Looks up a localized string similar to There is an error so that the changes could not be saved!.
+</summary>
+</member><member name="T:INF.Web.AdminConstanst">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:INF.Web.Admin.Info.ValidationMsg">
+	<summary>
+ValidationMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Info.MessageLabel">
+	<summary>
+MessageLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Info.WebsiteName">
+	<summary>
+WebsiteName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Info.WebsiteNameRequired">
+	<summary>
+WebsiteNameRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Info.WebsiteMeta">
+	<summary>
+WebsiteMeta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.Info.SaveChanges">
+	<summary>
+SaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.TodayOrders.StartDateOnTextBox">
+	<summary>
+StartDateOnTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.TodayOrders.EndDateOnTextBox">
+	<summary>
+EndDateOnTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.TodayOrders.SearchButton">
+	<summary>
+SearchButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.TodayOrders.ltrNumberOfOrders">
+	<summary>
+ltrNumberOfOrders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.TodayOrders.OrderDataGrid">
+	<summary>
+OrderDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.ContactUs.MapImage">
+	<summary>
+MapImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.ContactUs.ContactInfo">
+	<summary>
+ContactInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.AboutUs.AboutUsContent">
+	<summary>
+AboutUsContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.btnNewCategory">
+	<summary>
+btnNewCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.upCategoryGridView">
+	<summary>
+upCategoryGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.gvCategories">
+	<summary>
+gvCategories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.upCategoryEntryView">
+	<summary>
+upCategoryEntryView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.MenuCategoryID">
+	<summary>
+MenuCategoryID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.CategoryNameRequired">
+	<summary>
+CategoryNameRequired control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.txtPosition">
+	<summary>
+txtPosition control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.ItemPositionIsNumber">
+	<summary>
+ItemPositionIsNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.IsActive">
+	<summary>
+IsActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.txtMaxOfDressing">
+	<summary>
+txtMaxOfDressing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.RegularExpressionValidator1">
+	<summary>
+RegularExpressionValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.chkExclDiscount">
+	<summary>
+chkExclDiscount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.chkIsDeal">
+	<summary>
+chkIsDeal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.chkIsAvailableForDeal">
+	<summary>
+chkIsAvailableForDeal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Category.btnSaveChanges">
+	<summary>
+btnSaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CategoryMaster.TitlePlaceHolder">
+	<summary>
+TitlePlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CategoryMaster.HeadPlaceHolder">
+	<summary>
+HeadPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CategoryMaster.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CategoryMaster.SettingsPlaceHolder">
+	<summary>
+SettingsPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CategoryMaster.SidebarPlaceHolder">
+	<summary>
+SidebarPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.CategoryMaster.ContentPlaceHolder">
+	<summary>
+ContentPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web._Default.phDefaultPage">
+	<summary>
+phDefaultPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Feedback.mltFeedback">
+	<summary>
+mltFeedback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Feedback.viewFeedback">
+	<summary>
+viewFeedback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Feedback.ratingFoodQuality">
+	<summary>
+ratingFoodQuality control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Feedback.ratingProcessingTime">
+	<summary>
+ratingProcessingTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Feedback.ratingDeliveryTime">
+	<summary>
+ratingDeliveryTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Feedback.txtComments">
+	<summary>
+txtComments control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Feedback.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintSalesReport.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintSalesReport.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintSalesReport.SalesReportViewer">
+	<summary>
+SalesReportViewer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin_Report_PrintSalesReport.proxy">
+	<summary>
+proxy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.PendingOrders.ValidationMsg">
+	<summary>
+ValidationMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.PendingOrders.MessageLabel">
+	<summary>
+MessageLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.PendingOrders.TimePeriodOptions">
+	<summary>
+TimePeriodOptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.PendingOrders.SearchButton">
+	<summary>
+SearchButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.PendingOrders.ltrNumberOfPendingOrders">
+	<summary>
+ltrNumberOfPendingOrders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.PendingOrders.OrdersDataGrid">
+	<summary>
+OrdersDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.ErrorHandler.ltrErrorMessage">
+	<summary>
+ltrErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.Admin.LogOut.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:INF.Web.PaymentCancel.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

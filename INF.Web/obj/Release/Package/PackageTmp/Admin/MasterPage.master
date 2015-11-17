@@ -1,0 +1,57 @@
+﻿<%@ Master Language="VB" Inherits="INF.Web.Admin.MasterPage" CodeBehind="MasterPage.master.vb" %>
+
+<%@ Import Namespace="System.Security.Policy" %>
+
+<%@ Reference Control="~/Admin/MainNavigation.ascx" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+        <asp:ContentPlaceHolder runat="server" ID="TitlePlaceHolder">
+        </asp:ContentPlaceHolder>
+    </title>
+    <!-- Bootstrap -->
+    <link type="text/css" rel="stylesheet" href="../Admin/css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="../Admin/css/bootstrap-theme.css" />
+    <link type="text/css" rel="stylesheet" href="../Admin/Css/styles.css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="../Scripts/jquery-1.8.2.js"></script>
+    <asp:ContentPlaceHolder ID="HeadPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="mainForm" runat="server" class="form-horizontal" role="form">
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">EPOS Anytime</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <asp:PlaceHolder runat="server" ID="phMainNavigation"></asp:PlaceHolder>    
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <asp:ContentPlaceHolder ID="PageContent" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript" src="<%= ResolveUrl("~/admin/js/bootstrap.js")%>"></script>
+</body>
+</html>

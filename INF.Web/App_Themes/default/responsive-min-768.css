@@ -1,0 +1,399 @@
+
+
+
+@media screen and (min-width: 768px) {
+
+.fchbSecond {
+    bottom: 30px;
+    left: 341px;
+}
+ 
+ .shopLogo
+ {
+    background:transparent url("imgs/logo.png") no-repeat scroll 6px 20px / 98% auto;
+ }
+
+ .navList > li
+ {
+    margin: 0 0 0 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+
+ .firstSectionPlugin, .secondSectionPlugin{
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+
+ #closedSign
+{
+	  margin-right: 12px;
+}
+
+ ul.navList.enableShortNav {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ul.navList.enableShortNav > li {
+    letter-spacing: -0.75px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-left: 4px;
+}
+
+ul.navList.enableShortNav > li a {
+    font-size: 14px;
+}
+
+
+
+.marginTopMobi{
+	margin-top: 0px;
+}
+
+ #ctl00_ucHeader_pnlOrderTypeAndPostCode
+{
+    color: #eee;
+    font-family: "Oswald";
+    font-size: 14px;
+    line-height: 12px;
+    position: absolute;
+    right: 8px;
+    top: 17px;
+    width: auto;
+    padding: 0px;
+    display:none;
+    border-bottom: medium none !important;
+    background-color: transparent !important;
+}
+
+
+
+
+ .tchFirst
+ {
+ 	font-size: 12px;
+ }
+
+ .rightSideContent
+{
+	width: auto;
+}
+
+
+ #sidebar{
+	margin-top: 0px;
+}
+
+.poporderDelivery > a
+{
+	width: 55%;
+}
+
+ .poporderDelivery > p {
+    margin-bottom: 20px;
+}
+
+
+#orderselection .contentpop 
+ {
+ 	  margin:150px auto 0 15%;
+ 	  width: 70%;
+ }
+
+
+ .poporderDelivery > input {
+    float: left;
+    width: 40%;
+    margin-right: 5%;
+}
+ .powBy{
+
+    width:40%;
+    text-align:right;
+
+}
+
+.socialPlugins {
+
+    width: 60%;
+    margin-bottom: 0px;
+}
+
+ .btmcont{
+	margin-top: 20px;
+}
+
+ .btmtmb:nth-child(2n) {
+    margin-right: 2%;
+}
+
+.btmtmb:nth-child(2n):last-child {
+    margin-right: 0;
+}
+
+
+.btmtmb {
+    border-radius: 6px;
+    float: left;
+    height: auto;
+    margin-bottom: 0%;
+    margin-right: 2%;
+    width: 23.5%;
+}
+
+
+ .orderSumm, .orderFinal {
+  
+    margin-right: 1%;   
+    width: 49%;
+    margin-bottom: 20px;
+}
+
+
+.cstmsection.dealsSection {
+    margin-right: 1%;
+    width: 65%;
+}
+
+.cstmsection.dealBasket
+{  
+    width: 34%;
+}
+
+.profile article {
+    
+    margin-right: 1%;
+    width: 49%;
+    margin-top:10px;
+  
+}
+
+.addrProfile{
+	width: 99%;
+	margin-bottom:20px;
+}
+
+ .ice-check2 > li {
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 25%;
+}
+
+ .cateringShow .aboutusImg{
+ 	margin-right: 0;
+    margin-top: 15px;
+    text-align: center;
+    width: 100%;
+ }
+
+.cateringText {
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+.cstmContainer {
+    float: left;
+    margin-left: 0%;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.pgelem{
+	margin-left: 100px;
+}
+
+ .openingTimes{
+    float:left;
+    border-radius:6px;
+}
+
+.fbld > input {
+    margin-right: 5%;
+}
+
+.reservationDiv {
+   
+    margin: 0 auto 0 5%;
+    width: 50%;
+}
+
+.selectbxtime
+{
+	margin-right: 5%;
+}
+
+
+ .firstBLine .fbld{
+	width: 100%;
+}
+
+
+ .contactInfoCt {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+}
+
+ .leftSideCt {
+    float: left;
+    height: 320px;
+    margin-right: 5.2%;
+    width: 37.3%;
+    margin-top: 20px;
+}
+
+.rightSideCt {
+    min-height: 400px;
+    width: 57.5%;
+}
+
+
+
+ .onlineTxt{
+ 	font-size: 14px !important;
+ }
+
+ .onlineTxt br{
+ 	display: none;
+ }
+
+ .loginElement {
+    float: right !important;
+}
+
+
+.submitRecov {
+    margin-top: 0;
+    width: 30%;
+}
+
+.inputemRecov {
+    margin-right: 5%;
+    width: 40%;
+}
+
+ .cstmpg img
+ {
+ 	display: block;
+ }
+ .secondPasRecov{
+    width: 80%;
+    text-align: left;
+}
+
+ .registerArticleContainer, .loginArticleContainer{
+	width: 49%;
+	margin-top:0px;
+	margin-bottom: 0px;
+}
+
+.registerArticleContainer
+{
+	margin-left: 1%;
+}
+
+.loginArticleContainer{
+	margin-right: 1%;
+}
+
+
+ .custom-modal-popup {
+	margin: auto;
+    padding: 10px 5% 5% ;
+    width: 65% ;
+    position: relative;
+}
+
+.rightSideContent{
+	width: 30%;
+}
+
+.prodDesc{
+	display: block;
+}
+
+ .middleCol{
+ 	width: 56%;
+ 	margin-left: 2%;
+ 	margin-right: 2%;
+ }
+
+ .leftSideContent {
+    float: left;
+    width: 70%;
+    background-color: transparent;
+    border-radius: 6px;
+}
+
+#category_sidebar{
+	width: 100%;
+}
+
+ #category_sidebar, .leftCol{
+	display: block;
+}
+
+.leftCol{
+	width: 40%;
+}
+
+ #menunavbarMobi{
+ 	display: none;
+ }
+
+ul.navList{
+	display: block;
+}
+
+.header .firstHeaderRow{
+	display: block;
+}
+
+.headerRowMobi{
+	display: none;
+}
+
+#mobiNavBar{
+	display: none;
+}
+
+
+.header .secondHeaderRow{
+    float:left;
+    width:100%;
+    margin-top:10px;
+    height:auto;
+    display: block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} 
